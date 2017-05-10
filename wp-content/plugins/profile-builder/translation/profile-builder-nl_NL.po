@@ -1,0 +1,5302 @@
+# Translation of Profile Builder in Dutch
+# This file is distributed under the same license as the Profile Builder package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-04-12 05:21:01+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/0.1\n"
+"Project-Id-Version: Profile Builder\n"
+
+#: admin/manage-fields.php:125
+msgid "Specify the format of the date when using Datepicker<br/>Valid options: mm/dd/yy, mm/yy/dd, dd/yy/mm, dd/mm/yy, yy/dd/mm, yy/mm/dd, mm-dd-yy, yy-mm-dd, D, dd M yy, D, d M y, DD, dd-M-y, D, d M yy, @<br/>If not specified, defaults to mm/dd/yy"
+msgstr ""
+
+#: modules/custom-redirects/custom_redirects_admin.php:244
+msgid "Individual redirects defined in shortcodes; <strong><em>redirect_priority=\"top\"</em></strong> parameter can be added in any shortcode, then that shortcode redirect will have priority over all other redirects."
+msgstr ""
+
+#: admin/manage-fields.php:1214
+msgid "If you're interested in displaying different fields in the registration and edit profile forms, please use the Multiple Registration & Edit Profile Forms Modules."
+msgstr ""
+
+#: modules/custom-redirects/custom_redirects_admin.php:240
+msgid "Multiple Registration and Edit Profile form settings Redirects"
+msgstr ""
+
+#: admin/register-version.php:251
+msgid "<p>Your <strong>Profile Builder</strong> license is about to expire on %5$s. <br/>Please %1$sRenew Your Licence%2$s to continue receiving access to product downloads, automatic updates and support. %3$sRenew now and get 40&#37; off %4$s %6$sDismiss%7$s</p>"
+msgstr "<p>Uw <strong>Profile Builder</strong> licentie verloopt op %5$s. <br/>%1$sVernieuw uw Licentie%2$s om productdownloads, automatische updates en ondersteuning te blijven ontvangen. %3$sVernieuw nu en krijg 40&#37; korting %4$s %6$sSluiten%7$s</p>"
+
+#: admin/register-version.php:246
+msgid "<p>Your <strong>Profile Builder</strong> license has expired. <br/>Please %1$sRenew Your Licence%2$s to continue receiving access to product downloads, automatic updates and support. %3$sRenew now and get 40&#37; off %4$s %5$sDismiss%6$s</p>"
+msgstr "<p>Uw <strong>Profile Builder</strong> licentie is verlopen. <br/>%1$sVernieuw uw Licentie%2$s om productdownloads, automatische updates en ondersteuning te blijven ontvangen. %3$sVernieuw nu en krijg 40&#37; %4$s korting. %5$sSluiten%6$s</p>"
+
+#: front-end/recover.php:151
+msgid "You are already logged in. You can change your password on the edit profile form."
+msgstr "U bent reeds ingelogd. Wijzig uw wachtwoord via het profiel bewerkingsformulier."
+
+#: front-end/default-fields/blog-details/blog-details.php:70
+msgid "Your site url will look like this:<br>"
+msgstr "Uw website ziet er zo uit:<br>"
+
+#: features/functions.php:909
+msgid "<br><br>You can visit your site at "
+msgstr "<br><br>U kunt uw website bezoeken via "
+
+#: features/functions.php:896
+msgid "<br><br>Also, you will be able to visit your site at "
+msgstr "<br><br>Ook kunt u uw website bezoeken via "
+
+#: front-end/default-fields/blog-details/blog-details.php:138
+msgid "Privacy: I would like my site to appear in search engines, and in public listings around this network."
+msgstr "Privacy: Ik wil dat mijn website getoond wordt in zoekmachines en in publieke weergaves rond dit netwerk."
+
+#: front-end/default-fields/blog-details/blog-details.php:116
+msgid "Site Title"
+msgstr "Website Titel"
+
+#: front-end/default-fields/blog-details/blog-details.php:93
+msgid "Site URL slug"
+msgstr "Website URL slug"
+
+#: front-end/default-fields/blog-details/blog-details.php:63
+msgid "Yes, I'd like to create a new site"
+msgstr "Ja, ik wil een nieuwe website maken"
+
+#: modules/email-customizer/email-customizer.php:36
+#: modules/user-listing/userlisting.php:118
+msgid "Blog URL"
+msgstr "Blog URL"
+
+#: admin/admin-functions.php:44
+msgid "Blog Details - only appears on the Registration page!"
+msgstr "Blog Details - worden alleen getoond op Registratie Pagina!"
+
+#: admin/manage-fields.php:219
+msgid "Blog Details"
+msgstr "Blog Details"
+
+#: admin/pms-cross-promotion.php:239
+msgid "Allow your users to have <strong>paid accounts with Profile Builder</strong>. %1$sFind out how >%2$s %3$sDismiss%4$s"
+msgstr "Sta je gebruikers toe om <strong>betaalde accounts met Profile Builder</strong> te hebben. %1$sLees meer >%2$s %3$sSluiten%4$s"
+
+#: features/email-confirmation/email-confirmation.php:578
+msgid "Welcome to %1$s!<br/><br/><br/>Your username is:%2$s"
+msgstr "Welkom bij %1$s!<br/><br/><br/>Je gebruikersnaam is:%2$s"
+
+#: modules/user-listing/userlisting.php:1303
+msgid "View Map"
+msgstr "Bekijk plattegrond"
+
+#: admin/add-ons.php:103
+msgid "Available in Hobbyist and Pro Versions"
+msgstr "Beschikbaar in Hobbyist en Pro Versies"
+
+#: admin/add-ons.php:105
+msgid "Available in All Versions"
+msgstr "Beschikbaar in alle versies"
+
+#: admin/add-ons.php:148
+msgid "Learn More"
+msgstr "Lees meer"
+
+#: admin/basic-info.php:99
+msgid "Timepicker"
+msgstr "Tijdkiezer"
+
+#: admin/basic-info.php:100
+msgid "Colorpicker"
+msgstr "Kleurkiezer"
+
+#: admin/basic-info.php:103
+msgid "Currency Select"
+msgstr "Selecteer valuta"
+
+#: admin/basic-info.php:109
+msgid "Number"
+msgstr "Nummer"
+
+#: admin/basic-info.php:114
+msgid "Validation"
+msgstr "Validatie"
+
+#: admin/basic-info.php:115
+msgid "Map"
+msgstr "Plattegrond"
+
+#: admin/basic-info.php:116
+msgid "HTML"
+msgstr "HTML"
+
+#: admin/basic-info.php:162 modules/modules.php:117
+msgid "Repeater Fields"
+msgstr "Herhalingsvelden"
+
+#: admin/basic-info.php:163
+msgid "Set up a repeating group of fields on register and edit profile forms. Limit the number of repeated groups for each user role."
+msgstr "Maak een groep herhalingsvelden op profiel registratie en profiel bewerkformulieren. Begrens het aantal groepen herhalingsvelden voor iedere gebruiksrol."
+
+#: admin/general-settings.php:62
+msgid "This works with front-end forms only. Recommended to redirect WP default registration to a Profile Builder one using \"Custom Redirects\" module."
+msgstr "Dit werkt alleen met front-end formulieren. Het is aan te raden om de standaard WP registratie door te verwijzen naar die van Profile Builder, met gebruik van de \"Aangepaste doorverwijzingen\" invoegtoepassing."
+
+#: admin/manage-fields.php:118
+msgid "Use this in conjunction with WordPress functions to display the value in the page of your choosing<br/>Auto-completed but in some cases editable (in which case it must be unique)<br/>Changing this might take long in case of a very big user-count"
+msgstr "Gebruik dit in combinatie met de WordPress-functies om de waarde te tonen op de door u gewenste pagina<br/>Automatisch aangevuld maar in sommige gevallen te bewerken (in dat geval moet het uniek zijn)<br/>Wijzigingen kunnen lang duren als er erg veel gebruikers zijn"
+
+#: admin/manage-fields.php:141
+msgid "Show Currency Symbol"
+msgstr "Toon valuta symbool"
+
+#: admin/manage-fields.php:141
+msgid "Whether the currency symbol should be displayed after the currency name in the select option."
+msgstr "Of het valuta symbool na de valuta naam getoond moet worden in de keuze optie."
+
+#: admin/manage-fields.php:142
+msgid "Show Post Type"
+msgstr "Toon bericht type"
+
+#: admin/manage-fields.php:142
+msgid "Posts from what post type will be displayed in the select."
+msgstr "Berichten van welk bericht type worden in de keuze optie getoond?"
+
+#: admin/manage-fields.php:143
+msgid "Allowable Values"
+msgstr "Toegestane waarden"
+
+#: admin/manage-fields.php:143
+msgid "Enter a comma separated list of possible values. Upon registration if the value provided by the user does not match one of these values, the user will not be registered."
+msgstr "Voer een kommagescheiden lijst van mogelijke waardes in. Als de waarde die gebruiker tijdens registratie doorgeeft niet overeenkomt met 1 van deze waardes, wordt de gebruiker niet geregistreerd."
+
+#: admin/manage-fields.php:144
+msgid "Error Message"
+msgstr "Foutmelding"
+
+#: admin/manage-fields.php:144
+msgid "Set a custom error message that will be displayed to the user."
+msgstr "Maak een aangepaste foutmelding die aan gebruiker getoond wordt."
+
+#: admin/manage-fields.php:145
+msgid "Time Format"
+msgstr "Tijdformaat"
+
+#: admin/manage-fields.php:145
+msgid "Specify the time format."
+msgstr "Geef tijdformaat op."
+
+#: admin/manage-fields.php:146
+msgid "Google Maps API Key"
+msgstr "Google Maps API sleutel"
+
+#: admin/manage-fields.php:146
+msgid "Enter your Google Maps API key ( <a href=\"https://console.developers.google.com/flows/enableapi?apiid=maps_backend\" target=\"_blank\">Get your API key</a> ). If more than one map fields are added to a form the API key from the first map displayed will be used."
+msgstr "Voer je Google Maps API sleutel in ( <a href=\"https://console.developers.google.com/flows/enableapi?apiid=maps_backend\" target=\"_blank\">Haal je API sleutel op</a> ). Als er meer dan 1 plattegrond veld aan een formulier toegevoegd is, wordt de API sleutel van de eerste plattegrond gebruikt."
+
+#: admin/manage-fields.php:147
+msgid "Default Latitude"
+msgstr "Standaard breedtegraad"
+
+#: admin/manage-fields.php:147
+msgid "The latitude at which the map should be displayed when no pins are attached."
+msgstr "De breedtegraad die voor het tonen van de plattegrond gebruikt wordt als er geen pin markering is toegevoegd."
+
+#: admin/manage-fields.php:148
+msgid "Default Longitude"
+msgstr "Standaard lengtegraad"
+
+#: admin/manage-fields.php:148
+msgid "The longitude at which the map should be displayed when no pins are attached."
+msgstr "De lengtegraad die voor het tonen van de plattegrond gebruikt wordt als er geen pin markering is toegevoegd."
+
+#: admin/manage-fields.php:149
+msgid "Default Zoom Level"
+msgstr "Standaard zoom niveau"
+
+#: admin/manage-fields.php:149
+msgid "Add a number from 0 to 19. The higher the number the higher the zoom."
+msgstr "Voer een nummer van 0 tot 19 in. Hoe hoger het nummer hoe meer zoon."
+
+#: admin/manage-fields.php:150
+msgid "Map Height"
+msgstr "Hoogte plattegrond"
+
+#: admin/manage-fields.php:150
+msgid "The height of the map."
+msgstr "De hoogte van de plattegrond"
+
+#: admin/manage-fields.php:152
+msgid "HTML Content"
+msgstr "HTML inhoud"
+
+#: admin/manage-fields.php:152
+msgid "Add your HTML (or text) content"
+msgstr "Voeg je HTML (of tekst) inhoud toe"
+
+#: admin/manage-fields.php:153
+msgid "Phone Format"
+msgstr "Telefoon formaat"
+
+#: admin/manage-fields.php:153
+msgid "You can use: # for numbers, parentheses ( ), - sign, + sign, dot . and spaces."
+msgstr "Je kunt gebruiken: # voor nummers, haakjes ( ), - teken, + teken, punt . en spaties."
+
+#: admin/manage-fields.php:153
+msgid "Eg. (###) ###-####"
+msgstr "Voorbeeld (###) ###-####"
+
+#: admin/manage-fields.php:153
+msgid "Empty field won't check for correct phone number."
+msgstr "Leeg veld zal geen controle doen voor een correct telefoonnummer."
+
+#: admin/manage-fields.php:154
+msgid "Heading Tag"
+msgstr "Heading Tag"
+
+#: admin/manage-fields.php:154
+msgid "Change heading field size on front-end forms"
+msgstr "Verander grootte van heading veld in front-end formulieren"
+
+#: admin/manage-fields.php:155
+msgid "Min Number Value"
+msgstr "Min nummer (waarde)"
+
+#: admin/manage-fields.php:155
+msgid "Min allowed number value (0 to allow only positive numbers)"
+msgstr "Min toegestane nummer (0 om alleen positieve nummers toe te staan)"
+
+#: admin/manage-fields.php:155
+msgid "Leave it empty for no min value"
+msgstr "Laat leeg voor geen minimale waarde"
+
+#: admin/manage-fields.php:156
+msgid "Max Number Value"
+msgstr "Max nummer (waarde)"
+
+#: admin/manage-fields.php:156
+msgid "Max allowed number value (0 to allow only negative numbers)"
+msgstr "Max toegestane nummer (0 om alleen negatieve nummers toe te staan)"
+
+#: admin/manage-fields.php:156
+msgid "Leave it empty for no max value"
+msgstr "Laat leeg voor geen maximale waarde"
+
+#: admin/manage-fields.php:157
+msgid "Number Step Value"
+msgstr "Stap waarde (nummer)"
+
+#: admin/manage-fields.php:157
+msgid "Step value 1 to allow only integers, 0.1 to allow integers and numbers with 1 decimal"
+msgstr "Stap waarde 1 om alleen gehele getallen toe te staan, 0.1 om gehele getallen en nummers met 1 decimaal toe te staan."
+
+#: admin/manage-fields.php:157
+msgid "To allow multiple decimals use for eg. 0.01 (for 2 deciamls) and so on"
+msgstr "Om meerdere decimalen toe te staan gebruik bv 0.01 (voor 2 decimalen) enzovoort"
+
+#: admin/manage-fields.php:157
+msgid "You can also use step value to specify the legal number intervals (eg. step value 2 will allow only -4, -2, 0, 2 and so on)"
+msgstr "Je kunt de stap waarde ook gebruiken om toegestane intervallen in te stellen (bijvoorbeeld met stap waarde 2 zijn alleen -4, -2, 0, 2, enzovoort toegestaan)"
+
+#: admin/manage-fields.php:157
+msgid "Leave it empty for no restriction"
+msgstr "Laat leeg voor geen beperking"
+
+#: admin/manage-fields.php:561
+msgid "Albania Lek"
+msgstr "Albanië Lek"
+
+#: admin/manage-fields.php:562
+msgid "Afghanistan Afghani"
+msgstr "Afghanistan Afghani"
+
+#: admin/manage-fields.php:563
+msgid "Argentina Peso"
+msgstr "Argentinië Peso"
+
+#: admin/manage-fields.php:564
+msgid "Aruba Guilder"
+msgstr "Aruba Gulden"
+
+#: admin/manage-fields.php:565
+msgid "Australia Dollar"
+msgstr "Australië Dollar"
+
+#: admin/manage-fields.php:566
+msgid "Azerbaijan New Manat"
+msgstr "Azerbeidzjan Manat"
+
+#: admin/manage-fields.php:567
+msgid "Bahamas Dollar"
+msgstr "Bahama's Dollar"
+
+#: admin/manage-fields.php:568
+msgid "Barbados Dollar"
+msgstr "Barbados Dollar"
+
+#: admin/manage-fields.php:569
+msgid "Bangladeshi taka"
+msgstr "Bangladesh Taka"
+
+#: admin/manage-fields.php:570
+msgid "Belarus Ruble"
+msgstr "Wit Rusland Roebel"
+
+#: admin/manage-fields.php:571
+msgid "Belize Dollar"
+msgstr "Belize Dollar"
+
+#: admin/manage-fields.php:572
+msgid "Bermuda Dollar"
+msgstr "Bermuda Dollar"
+
+#: admin/manage-fields.php:573
+msgid "Bolivia Boliviano"
+msgstr "Bolivia Boliviano"
+
+#: admin/manage-fields.php:574
+msgid "Bosnia and Herzegovina Convertible Marka"
+msgstr "Bosnië en Herzegovina Convertibele Mark"
+
+#: admin/manage-fields.php:575
+msgid "Botswana Pula"
+msgstr "Botswana Pula"
+
+#: admin/manage-fields.php:576
+msgid "Bulgaria Lev"
+msgstr "Bulgarije Lev"
+
+#: admin/manage-fields.php:577
+msgid "Brazil Real"
+msgstr "Brazilië Real"
+
+#: admin/manage-fields.php:578
+msgid "Brunei Darussalam Dollar"
+msgstr "Brunei Bruneise Dollar"
+
+#: admin/manage-fields.php:579
+msgid "Cambodia Riel"
+msgstr "Cambodja Riel"
+
+#: admin/manage-fields.php:580
+msgid "Canada Dollar"
+msgstr "Canada Dollar"
+
+#: admin/manage-fields.php:581
+msgid "Cayman Islands Dollar"
+msgstr "Kaaimaneilanden Dollar"
+
+#: admin/manage-fields.php:582
+msgid "Chile Peso"
+msgstr "Chili Peso"
+
+#: admin/manage-fields.php:583
+msgid "China Yuan Renminbi"
+msgstr "China Yuan Renminbi"
+
+#: admin/manage-fields.php:584
+msgid "Colombia Peso"
+msgstr "Colombia Peso"
+
+#: admin/manage-fields.php:585
+msgid "Costa Rica Colon"
+msgstr "Costa Rica Colon"
+
+#: admin/manage-fields.php:586
+msgid "Croatia Kuna"
+msgstr "Kroatië Kuna"
+
+#: admin/manage-fields.php:587
+msgid "Cuba Peso"
+msgstr "Cuba Peso"
+
+#: admin/manage-fields.php:588
+msgid "Czech Republic Koruna"
+msgstr "Tsjechië Kroon"
+
+#: admin/manage-fields.php:589
+msgid "Denmark Krone"
+msgstr "Denemarken Kroon"
+
+#: admin/manage-fields.php:590
+msgid "Dominican Republic Peso"
+msgstr "Dominicaanse Republiek Peso"
+
+#: admin/manage-fields.php:591
+msgid "East Caribbean Dollar"
+msgstr "Oost Caribische Dollar"
+
+#: admin/manage-fields.php:592
+msgid "Egypt Pound"
+msgstr "Egypte Pond"
+
+#: admin/manage-fields.php:593
+msgid "El Salvador Colon"
+msgstr "El Salvador Colon"
+
+#: admin/manage-fields.php:594
+msgid "Estonia Kroon"
+msgstr "Estland Kroon"
+
+#: admin/manage-fields.php:595
+msgid "Euro"
+msgstr "Euro"
+
+#: admin/manage-fields.php:596
+msgid "Falkland Islands (Malvinas) Pound"
+msgstr "Falklandeilanden Pond"
+
+#: admin/manage-fields.php:597
+msgid "Fiji Dollar"
+msgstr "Fiji Dollar"
+
+#: admin/manage-fields.php:598
+msgid "Ghana Cedis"
+msgstr "Ghana Cedi"
+
+#: admin/manage-fields.php:599
+msgid "Gibraltar Pound"
+msgstr "Gibraltar Pond"
+
+#: admin/manage-fields.php:600
+msgid "Guatemala Quetzal"
+msgstr "Guatemala Quetzal"
+
+#: admin/manage-fields.php:601
+msgid "Guernsey Pound"
+msgstr "Guernsey Pond"
+
+#: admin/manage-fields.php:602
+msgid "Guyana Dollar"
+msgstr "Guyana Dollar"
+
+#: admin/manage-fields.php:603
+msgid "Honduras Lempira"
+msgstr "Honduras Lempira"
+
+#: admin/manage-fields.php:604
+msgid "Hong Kong Dollar"
+msgstr "Hong Kong Dollar"
+
+#: admin/manage-fields.php:605
+msgid "Hungary Forint"
+msgstr "Hongarije Forint"
+
+#: admin/manage-fields.php:606
+msgid "Iceland Krona"
+msgstr "IJsland Kroon"
+
+#: admin/manage-fields.php:607
+msgid "India Rupee"
+msgstr "India Roepie"
+
+#: admin/manage-fields.php:608
+msgid "Indonesia Rupiah"
+msgstr "Indonesië Roepia"
+
+#: admin/manage-fields.php:609
+msgid "Iran Rial"
+msgstr "Iran Rial"
+
+#: admin/manage-fields.php:610
+msgid "Isle of Man Pound"
+msgstr "Man Pond"
+
+#: admin/manage-fields.php:611
+msgid "Israel Shekel"
+msgstr "Israel Shekel"
+
+#: admin/manage-fields.php:612
+msgid "Jamaica Dollar"
+msgstr "Jamaica Dollar"
+
+#: admin/manage-fields.php:613
+msgid "Japan Yen"
+msgstr "Japan Yen"
+
+#: admin/manage-fields.php:614
+msgid "Jersey Pound"
+msgstr "Jersey Pond"
+
+#: admin/manage-fields.php:615
+msgid "Kazakhstan Tenge"
+msgstr "Kazachstan Tenge"
+
+#: admin/manage-fields.php:616
+msgid "Korea (North) Won"
+msgstr "Korea (Noord) Won"
+
+#: admin/manage-fields.php:617
+msgid "Korea (South) Won"
+msgstr "Korea (Zuid) Won"
+
+#: admin/manage-fields.php:618
+msgid "Kyrgyzstan Som"
+msgstr "Kirgizië Som"
+
+#: admin/manage-fields.php:619
+msgid "Laos Kip"
+msgstr "Laos Kip"
+
+#: admin/manage-fields.php:620
+msgid "Latvia Lat"
+msgstr "Letland Lat"
+
+#: admin/manage-fields.php:621
+msgid "Lebanon Pound"
+msgstr "Libanon Pound"
+
+#: admin/manage-fields.php:622
+msgid "Liberia Dollar"
+msgstr "Liberia Dollar"
+
+#: admin/manage-fields.php:623
+msgid "Lithuania Litas"
+msgstr "Litouwen Litas"
+
+#: admin/manage-fields.php:624
+msgid "Macedonia Denar"
+msgstr "Macedonië Denar"
+
+#: admin/manage-fields.php:625
+msgid "Malaysia Ringgit"
+msgstr " Maleisië Ringgit"
+
+#: admin/manage-fields.php:626
+msgid "Mauritius Rupee"
+msgstr "Mauritius Roepie"
+
+#: admin/manage-fields.php:627
+msgid "Mexico Peso"
+msgstr "Mexico Peso"
+
+#: admin/manage-fields.php:628
+msgid "Mongolia Tughrik"
+msgstr "Mongolië Tugrik"
+
+#: admin/manage-fields.php:629
+msgid "Mozambique Metical"
+msgstr "Mozambique Metical"
+
+#: admin/manage-fields.php:630
+msgid "Namibia Dollar"
+msgstr "Namibië Dollar"
+
+#: admin/manage-fields.php:631
+msgid "Nepal Rupee"
+msgstr "Nepal Roepie"
+
+#: admin/manage-fields.php:632
+msgid "Netherlands Antilles Guilder"
+msgstr "Nederlandse Antillen Gulden"
+
+#: admin/manage-fields.php:633
+msgid "New Zealand Dollar"
+msgstr "Nieuw Zeeland Dollar"
+
+#: admin/manage-fields.php:634
+msgid "Nicaragua Cordoba"
+msgstr "Nicaragua Cordoba"
+
+#: admin/manage-fields.php:635
+msgid "Nigeria Naira"
+msgstr "Nigeria Naira"
+
+#: admin/manage-fields.php:636
+msgid "Norway Krone"
+msgstr "Noorwegen Kroon"
+
+#: admin/manage-fields.php:637
+msgid "Oman Rial"
+msgstr "Oman Rial"
+
+#: admin/manage-fields.php:638
+msgid "Pakistan Rupee"
+msgstr "Pakistan Roepie"
+
+#: admin/manage-fields.php:639
+msgid "Panama Balboa"
+msgstr "Panama Balboa"
+
+#: admin/manage-fields.php:640
+msgid "Paraguay Guarani"
+msgstr "Paraguay Guarani"
+
+#: admin/manage-fields.php:641
+msgid "Peru Nuevo Sol"
+msgstr "Peru Sol"
+
+#: admin/manage-fields.php:642
+msgid "Philippines Peso"
+msgstr "Filipijnen Peso"
+
+#: admin/manage-fields.php:643
+msgid "Poland Zloty"
+msgstr "Polen Zloty"
+
+#: admin/manage-fields.php:644
+msgid "Qatar Riyal"
+msgstr "Qatar Rial"
+
+#: admin/manage-fields.php:645
+msgid "Romania New Leu"
+msgstr "Roemenië Leu"
+
+#: admin/manage-fields.php:646
+msgid "Russia Ruble"
+msgstr "Rusland Roebel"
+
+#: admin/manage-fields.php:647
+msgid "Saint Helena Pound"
+msgstr "Sint Helena Pond"
+
+#: admin/manage-fields.php:648
+msgid "Saudi Arabia Riyal"
+msgstr "Saoedi-Arabië Rial"
+
+#: admin/manage-fields.php:649
+msgid "Serbia Dinar"
+msgstr "Servië Dinar"
+
+#: admin/manage-fields.php:650
+msgid "Seychelles Rupee"
+msgstr "Seychellen Roepie"
+
+#: admin/manage-fields.php:651
+msgid "Singapore Dollar"
+msgstr "Singapore Dollar"
+
+#: admin/manage-fields.php:652
+msgid "Solomon Islands Dollar"
+msgstr "Salomonseilanden Dollar"
+
+#: admin/manage-fields.php:653
+msgid "Somalia Shilling"
+msgstr "Somalië Shilling"
+
+#: admin/manage-fields.php:654
+msgid "South Africa Rand"
+msgstr "Zuid Afrika Rand"
+
+#: admin/manage-fields.php:655
+msgid "Sri Lanka Rupee"
+msgstr "Sri Lanka Roepie"
+
+#: admin/manage-fields.php:656
+msgid "Sweden Krona"
+msgstr "Zweden Kroon"
+
+#: admin/manage-fields.php:657
+msgid "Switzerland Franc"
+msgstr "Zwitserland Frank"
+
+#: admin/manage-fields.php:658
+msgid "Suriname Dollar"
+msgstr "Suriname Dollar"
+
+#: admin/manage-fields.php:659
+msgid "Syria Pound"
+msgstr "Syrië Pond"
+
+#: admin/manage-fields.php:660
+msgid "Taiwan New Dollar"
+msgstr "Taiwan Dollar"
+
+#: admin/manage-fields.php:661
+msgid "Thailand Baht"
+msgstr "Thailand Baht"
+
+#: admin/manage-fields.php:662
+msgid "Trinidad and Tobago Dollar"
+msgstr "Trinidad en Tobago Dollar"
+
+#: admin/manage-fields.php:663 admin/manage-fields.php:664
+msgid "Turkey Lira"
+msgstr "Turkije Lira"
+
+#: admin/manage-fields.php:665
+msgid "Tuvalu Dollar"
+msgstr "Tuvalu Dollar"
+
+#: admin/manage-fields.php:666
+msgid "Ukraine Hryvna"
+msgstr "Oekraïne Grivna"
+
+#: admin/manage-fields.php:667
+msgid "United Kingdom Pound"
+msgstr "Verenigd Koninkrijk Pond"
+
+#: admin/manage-fields.php:668
+msgid "Uganda Shilling"
+msgstr "Oeganda Shilling"
+
+#: admin/manage-fields.php:669
+msgid "US Dollar"
+msgstr "US Dollar"
+
+#: admin/manage-fields.php:670
+msgid "Uruguay Peso"
+msgstr "Uruguay Peso"
+
+#: admin/manage-fields.php:671
+msgid "Uzbekistan Som"
+msgstr "Oezbekistan Som"
+
+#: admin/manage-fields.php:672
+msgid "Venezuela Bolivar"
+msgstr "Venezuela Bolivar"
+
+#: admin/manage-fields.php:673
+msgid "Viet Nam Dong"
+msgstr "Vietnam Dong"
+
+#: admin/manage-fields.php:674
+msgid "Yemen Rial"
+msgstr "Jemen Rial"
+
+#: admin/manage-fields.php:675
+msgid "Zimbabwe Dollar"
+msgstr "Zimbabwe Dollar"
+
+#: admin/manage-fields.php:1094
+msgid "The meta-name can only contain lowercase letters, numbers, _ , - and no spaces.\n"
+msgstr "De meta-naam kan alleen kleine letters, nummers, _ , - en geen spaties bevatten.\n"
+
+#: admin/manage-fields.php:1311
+msgid "Search Location"
+msgstr "Zoeklocatie"
+
+#: assets/lib/wck-api/wordpress-creation-kit.php:754
+msgid "You are not allowed to do this."
+msgstr "Je mag dit niet doen."
+
+#: features/admin-approval/class-admin-approval.php:461
+#: features/email-confirmation/class-email-confirmation.php:460
+msgid "Search Users"
+msgstr "Zoek gebruikers"
+
+#: features/conditional-fields/conditional-fields.php:78
+msgid "Conditional Logic"
+msgstr "Voorwaardelijke logica"
+
+#: features/conditional-fields/conditional-fields.php:79
+msgid "Conditional Rules"
+msgstr "Voorwaardelijke regels"
+
+#: features/conditional-fields/conditional-fields.php:448
+msgid "This field has conditional logic enabled."
+msgstr "Voor dit veld is voorwaardelijk logica ingeschakeld."
+
+#: features/functions.php:685
+msgid "Incorrect phone number"
+msgstr "Onjuist telefoonnummer"
+
+#: front-end/class-formbuilder.php:113
+msgid "The role of the created user set to the default role. Only an administrator can register a user with the role assigned to this form."
+msgstr "De rol van de aangemaakte gebruiker is op de standaard rol gezet. Alleen een beheerder kan een gebruiker registreren met de rol die bij dit formulier hoort."
+
+#: front-end/extra-fields/map/map.php:46 front-end/extra-fields/map/map.php:69
+msgid "Please add the Google Maps API key for this field."
+msgstr "Voeg svp de Google Maps API sleutel toe in dit veld."
+
+#: front-end/extra-fields/map/map.php:134
+msgid "Something went wrong. Please try again."
+msgstr "Iets is fout gegeaan. Probeer svp opnieuw."
+
+#: front-end/extra-fields/number/number.php:69
+msgid "Please enter numbers only"
+msgstr "Svp alleen nummers invoeren"
+
+#: front-end/extra-fields/number/number.php:73
+msgid "Value must be a multiplier of %1$s"
+msgstr "Waarde moet een meervoud zijn van %1$s"
+
+#: front-end/extra-fields/number/number.php:77
+msgid "Value must be greater than or equal to %1$s"
+msgstr "Waarde moet groter dan of gelijk zijn aan %1$s"
+
+#: front-end/extra-fields/number/number.php:81
+msgid "Value must be less than or equal to %1$s"
+msgstr "Waarde moet kleiner dan of gelijk zijn aan %1$s"
+
+#: front-end/extra-fields/phone/phone.php:22
+msgid "Required phone number format: "
+msgstr "Verplicht formaat telefoonnummer:"
+
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Bolivia, __( Plurinational State of"
+msgstr "Bolivia, __( Plurinationale Staat"
+
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Bonaire, __( Sint Eustatius and Saba"
+msgstr "Bonaire, __( Sint Eustatius en Saba"
+
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Brunei Darussalam"
+msgstr "Brunei Darussalam"
+
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Cabo Verde"
+msgstr "Kaapverdië"
+
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Cocos (Keeling) Islands"
+msgstr "Cocos (Keeling) Eilanden"
+
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Congo"
+msgstr "Congo"
+
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Congo, __( the Democratic Republic of the"
+msgstr "Congo, __( Democratische Republiek"
+
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Cote dIvoire"
+msgstr "Ivoorkust"
+
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Falkland Islands (Malvinas)"
+msgstr "Falklandeilanden (Malvinas)"
+
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Holy See (Vatican City State)"
+msgstr "Heilige Stoel (Vaticaan)"
+
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Iran, __( Islamic Republic of"
+msgstr "Iran, __( Islamitische Republiek"
+
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Korea, __( Democratic Peoples Republic of"
+msgstr "Korea, __( Democratische Volksrepubliek"
+
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Korea, __( Republic of"
+msgstr "Korea, __( Republiek"
+
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Lao Peoples Democratic Republic"
+msgstr "Laos Democratische Volksrepubliek"
+
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Macedonia, __( the former Yugoslav Republic of"
+msgstr "Macedonië, __( Voormalige Joegoslavische Republiek"
+
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Micronesia, __( Federated States of"
+msgstr "Micronesia, __( Federale Staten van"
+
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Moldova, __( Republic of"
+msgstr "Moldavië, __( Republiek"
+
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Palestine, __( State of"
+msgstr "Palestina, __( Staat"
+
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Russian Federation"
+msgstr "Russische Federatie"
+
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Saint Helena, __( Ascension and Tristan da Cunha"
+msgstr "Saint Helena, __( Ascension en Tristan da Cunha"
+
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Saint Martin (French part)"
+msgstr "Sint Maarten (Frans deel)"
+
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Sint Maarten (Dutch part)"
+msgstr "Sint Maarten (Nederlands deel)"
+
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Syrian Arab Republic"
+msgstr "Arabische Republiek Syrië"
+
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Taiwan, __( Province of China"
+msgstr "Taiwan, __( Provincie van China"
+
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Tanzania, __( United Republic of"
+msgstr "Tanzania, __( Verenigde Republiek"
+
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Timor-Leste"
+msgstr "Timor-Leste"
+
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Venezuela, __( Bolivarian Republic of"
+msgstr "Venezuela, __( Bolivariaanse Republiek"
+
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Viet Nam"
+msgstr "Vietnam"
+
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Virgin Islands, __( British"
+msgstr "Maagdeneilanden, __( Britse"
+
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Virgin Islands, __( U.S."
+msgstr "Maagdeneilanden, __( U.S."
+
+#: modules/email-customizer/email-customizer.php:11
+#: modules/user-listing/userlisting.php:186
+msgid "User Fields Tags"
+msgstr "Tags gebruikersvelden"
+
+#: modules/email-customizer/email-customizer.php:479
+msgid "The users selected password at signup"
+msgstr "Het door gebruiker gekozen wachtwoord tijdens aanmelden"
+
+#: modules/email-customizer/user-email-customizer.php:278
+msgid "[{{site_name}}] Notice of Email Change"
+msgstr "[{{site_name}}] Notificatie wijziging e-mailadres"
+
+#: modules/email-customizer/user-email-customizer.php:289
+msgid "Changed Email Address Notification"
+msgstr "Notificatie gewijzigd e-mailadres"
+
+#: modules/repeater-field/admin/repeater-manage-fields.php:190
+msgid "Limit"
+msgstr "Limiet"
+
+#: modules/repeater-field/admin/repeater-manage-fields.php:190
+msgid "Enable limit to the number of fields to be generated by users in front end forms "
+msgstr "Schakel limiet in voor aantal velden die gebruikers in front-end formulieren kunnen aanmaken"
+
+#: modules/repeater-field/admin/repeater-manage-fields.php:191
+msgid "General Limit"
+msgstr "Algemene limiet"
+
+#: modules/repeater-field/admin/repeater-manage-fields.php:191
+msgid "Default limit for this repeater group. <br>Leave 0 for unlimited."
+msgstr "Standaard limiet voor deze herhalingsgroep. <br>Laat 0 voor geen limiet."
+
+#: modules/repeater-field/admin/repeater-manage-fields.php:192
+msgid "Limit reached message"
+msgstr "Bericht bij bereiken limiet"
+
+#: modules/repeater-field/admin/repeater-manage-fields.php:192
+msgid "The maximum number of fields has been reached."
+msgstr "Het maximaal aantal velden is bereikt."
+
+#: modules/repeater-field/admin/repeater-manage-fields.php:192
+msgid "The popup message to display when the limit of repeater groups is reached."
+msgstr "Het popup bericht die getoond wordt als maximaal aantal herhalingsgroepen is bereikt."
+
+#: modules/repeater-field/admin/repeater-manage-fields.php:193
+msgid "Limit per Role"
+msgstr "Limiet per rol"
+
+#: modules/repeater-field/admin/repeater-manage-fields.php:193
+msgid "Leave 0 for unlimited."
+msgstr "Laat 0 voor geen limiet."
+
+#: modules/repeater-field/admin/repeater-manage-fields.php:194
+msgid "Repeated field group"
+msgstr "Herhalingsveld groep"
+
+#: modules/repeater-field/admin/repeater-manage-fields.php:194
+msgid "Manage field or group of fields that will be repeatable."
+msgstr "Beheer veld of groep velden die worden herhaald."
+
+#: modules/repeater-field/admin/repeater-manage-fields.php:259
+msgid "Edit field group"
+msgstr "Beheer veldgroep"
+
+#: modules/repeater-field/admin/repeater-manage-fields.php:260
+msgid "Repeatable fields saved!"
+msgstr "Herhalingsvelden opgeslagen!"
+
+#: modules/repeater-field/admin/repeater-manage-fields.php:277
+#: modules/repeater-field/admin/repeater-manage-fields.php:326
+msgid "Please enter a unique field title.\n"
+msgstr "Voer svp een unieke veld titel in.\n"
+
+#: modules/repeater-field/repeater-field.php:258
+msgid "Are you sure you want to delete this?"
+msgstr "Weet je zeker dat je dit wilt verwijderen?"
+
+#: modules/user-listing/userlisting.php:192
+msgid "Sort Tags"
+msgstr "Sorteer tags"
+
+#: modules/user-listing/userlisting.php:201
+#: modules/user-listing/userlisting.php:2237
+msgid "Faceted Menus"
+msgstr "Facet menu's"
+
+#: modules/user-listing/userlisting.php:202
+msgid "User Count"
+msgstr "Gebruikerstelling"
+
+#: modules/user-listing/userlisting.php:1536
+msgid "Show All"
+msgstr "Toon alle"
+
+#: modules/user-listing/userlisting.php:1668
+msgid "No options available"
+msgstr "Geen opties beschikbaar"
+
+#: modules/user-listing/userlisting.php:1807
+msgid "Remove All Filters"
+msgstr "Verwijder alle filters"
+
+#: modules/user-listing/userlisting.php:2227
+msgid "Label"
+msgstr "Label"
+
+#: modules/user-listing/userlisting.php:2227
+msgid "Choose the facet name that appears on the frontend"
+msgstr "Kies de facet naam die in front-end getoond wordt"
+
+#: modules/user-listing/userlisting.php:2228
+msgid "Facet Type"
+msgstr "Facet Type"
+
+#: modules/user-listing/userlisting.php:2228
+msgid "Choose the facet menu type"
+msgstr "Kies het facet menu type"
+
+#: modules/user-listing/userlisting.php:2229
+msgid "Facet Meta"
+msgstr "Facet Meta"
+
+#: modules/user-listing/userlisting.php:2229
+msgid "Choose the meta field for the facet menu"
+msgstr "Kies het meta-veld voor het facet menu"
+
+#: modules/user-listing/userlisting.php:2230
+msgid "Behaviour"
+msgstr "Gedrag"
+
+#: modules/user-listing/userlisting.php:2230
+msgid "Narrow the results"
+msgstr "Verklein de resultaten"
+
+#: modules/user-listing/userlisting.php:2230
+msgid "Expand the results"
+msgstr "Vergroot de resultaten"
+
+#: modules/user-listing/userlisting.php:2230
+msgid "Choose how multiple selections affect the results"
+msgstr "Kies hoe meerdere selecties het resultaat beïnvloeden."
+
+#: modules/user-listing/userlisting.php:2231
+msgid "Visible choices"
+msgstr "Zichtbare keuzes"
+
+#: modules/user-listing/userlisting.php:2231
+msgid "Show a toggle link after this many choices. Leave blank for all"
+msgstr "Toon een uitklap link na zo veel keuzes. Laat leeg voor alle keuzes."
+
+#: modules/user-listing/userlisting.php:2254
+msgid "Search Fields"
+msgstr "Zoek Velden"
+
+#: modules/user-listing/userlisting.php:2254
+msgid "Choose the fields in which the Search Field will look in"
+msgstr "Kies de velden die Zoek Velden doorzoekt"
+
+#: modules/user-listing/userlisting.php:2259
+msgid "Search Settings"
+msgstr "Zoekinstellingen"
+
+#: admin/add-ons.php:190
+msgid "Recommended Plugins"
+msgstr "Aanbevolen plugins"
+
+#: admin/add-ons.php:219 admin/pms-cross-promotion.php:102
+msgid "Free"
+msgstr "Vrij"
+
+#: admin/add-ons.php:221
+msgid "Accept user payments, create subscription plans and restrict content on your membership site."
+msgstr "Accepteer betalingen door gebruikers, maak abonnementsplannen en beperk inhoud op je lidmaatschap website."
+
+#: admin/add-ons.php:222 admin/pms-cross-promotion.php:105
+msgid "More Details"
+msgstr "Meer Details"
+
+#: admin/add-ons.php:240 admin/pms-cross-promotion.php:88
+#: admin/pms-cross-promotion.php:123 admin/pms-cross-promotion.php:202
+msgid "Plugin is <strong>inactive</strong>"
+msgstr "Plugin is <strong>inactief</strong>"
+
+#: admin/add-ons.php:242 admin/pms-cross-promotion.php:87
+#: admin/pms-cross-promotion.php:125 admin/pms-cross-promotion.php:204
+msgid "Plugin is <strong>active</strong>"
+msgstr "Plugin is <strong>actief</strong>"
+
+#: admin/add-ons.php:256 admin/pms-cross-promotion.php:146
+msgid "Could not install plugin. Retry or <a href=\"%s\" target=\"_blank\">install manually</a>."
+msgstr "Kan plugin niet registreren. Probeer opnieuw of  <a href=\"%s\" target=\"_blank\">installeer manueel</a>."
+
+#: admin/pms-cross-promotion.php:10
+msgid "Paid Accounts"
+msgstr "Betaal Accounts"
+
+#: admin/pms-cross-promotion.php:33
+msgid "Paid Member Subscriptions - a free WordPress plugin"
+msgstr "Paid Member Subscriptions - een gratis WordPress plugin"
+
+#: admin/pms-cross-promotion.php:37
+msgid "With the new Subscriptions Field in Profile Builder, your registration forms will allow your users to sign up for paid accounts."
+msgstr "Met het nieuwe Abonnementen Veld in Profile Builder, wordt het mogelijk om gebruikers zich via het registratieformulier aan te laten melden voor betaalde accounts."
+
+#: admin/pms-cross-promotion.php:40
+msgid "Paid & Free Subscriptions"
+msgstr "Betaal en gratis abonnementen"
+
+#: admin/pms-cross-promotion.php:41
+msgid "Restrict Content"
+msgstr "Beperk Inhoud"
+
+#: admin/pms-cross-promotion.php:42
+msgid "Member Management"
+msgstr "Beheer van Geregistereerde Klanten"
+
+#: admin/pms-cross-promotion.php:43
+msgid "Email Templates"
+msgstr "E-mail Templates"
+
+#: admin/pms-cross-promotion.php:44
+msgid "Account Management"
+msgstr "Account Management"
+
+#: admin/pms-cross-promotion.php:45
+msgid "Subscription Management"
+msgstr "Abonnementsbeheer"
+
+#: admin/pms-cross-promotion.php:46
+msgid "Payment Management"
+msgstr "Betalingsbeheer"
+
+#: admin/pms-cross-promotion.php:83
+msgid "Plugin is Active"
+msgstr "Plugin is Actief"
+
+#: admin/pms-cross-promotion.php:84
+msgid "Plugin has been activated"
+msgstr "Plugin is geactiveerd"
+
+#: admin/pms-cross-promotion.php:91
+msgid "Plugin has been deactivated."
+msgstr "Plugin is gedeactiveerd"
+
+#: admin/pms-cross-promotion.php:104
+msgid "Accept user payments, create subscription plans and restrict content on your website."
+msgstr "Accepteer betalingen door gebruikers, maak abonnementsplannen en beperk inhoud op je website."
+
+#: admin/pms-cross-promotion.php:155
+msgid "Step by Step Quick Setup"
+msgstr "Stap voor stap snelle installatie"
+
+#: features/email-confirmation/email-confirmation.php:400
+msgid "To activate your user, please click the following link:<br><br>%s%s%s<br><br>After you activate it you will receive yet *another email* with your login."
+msgstr "Klik op de volgende link om de gebruiker te activeren:<br><br>%s%s%s<br><br>Na activering zult u nog een e-mail ontvangen met uw inloggegevens."
+
+#: modules/custom-redirects/custom_redirects_admin.php:45
+msgid "After Login"
+msgstr "Na Inloggen"
+
+#: modules/custom-redirects/custom_redirects_admin.php:46
+msgid "After Logout"
+msgstr "Na uitloggen"
+
+#: modules/custom-redirects/custom_redirects_admin.php:47
+msgid "After Registration"
+msgstr "Na Registratie"
+
+#: modules/custom-redirects/custom_redirects_admin.php:48
+msgid "After Edit Profile"
+msgstr "Na Bewerken Profiel"
+
+#: modules/custom-redirects/custom_redirects_admin.php:49
+msgid "After Successful Email Confirmation"
+msgstr "Na succesvolle e-mail bevestiging"
+
+#: modules/custom-redirects/custom_redirects_admin.php:50
+msgid "After Successful Password Reset"
+msgstr "Na succesvolle wachtwoord herstel"
+
+#: modules/custom-redirects/custom_redirects_admin.php:51
+msgid "Dashboard (redirect users from accessing the dashboard)"
+msgstr "Dashboard (gebruikers doorverwijzen om geen toegang tot het dashboard te krijgen)"
+
+#: modules/custom-redirects/custom_redirects_admin.php:55
+msgid "User ID"
+msgstr "Gebruikers-ID"
+
+#: modules/custom-redirects/custom_redirects_admin.php:61
+msgid "User ID or Username"
+msgstr "Gebruikers-ID of gebruikersnaam"
+
+#: modules/custom-redirects/custom_redirects_admin.php:62
+msgid "User ID / Username"
+msgstr "Gebruikers-ID / gebruikersnaam"
+
+#: modules/custom-redirects/custom_redirects_admin.php:62
+msgid "Please select and enter the ID or username of your user."
+msgstr "Selecteer svp de ID of gebruikersnaam van je gebruiker."
+
+#: modules/custom-redirects/custom_redirects_admin.php:63
+#: modules/custom-redirects/custom_redirects_admin.php:93
+#: modules/custom-redirects/custom_redirects_admin.php:112
+#: modules/custom-redirects/custom_redirects_admin.php:131
+msgid "Redirect Type"
+msgstr "Type doorverwijzing"
+
+#: modules/custom-redirects/custom_redirects_admin.php:64
+#: modules/custom-redirects/custom_redirects_admin.php:94
+#: modules/custom-redirects/custom_redirects_admin.php:113
+#: modules/custom-redirects/custom_redirects_admin.php:138
+msgid "Redirect URL"
+msgstr "URL doorverwijzing"
+
+#: modules/custom-redirects/custom_redirects_admin.php:64
+#: modules/custom-redirects/custom_redirects_admin.php:94
+#: modules/custom-redirects/custom_redirects_admin.php:113
+#: modules/custom-redirects/custom_redirects_admin.php:138
+msgid "Can contain the following dynamic tags:{{homeurl}}, {{siteurl}}, {{user_id}}, {{user_nicename}}, {{http_referer}}"
+msgstr "Kan de volgende dynamische tags bevatten:{{homeurl}}, {{siteurl}}, {{user_id}}, {{user_nicename}}, {{http_referer}}"
+
+#: modules/custom-redirects/custom_redirects_admin.php:71
+#: modules/custom-redirects/custom_redirects_admin.php:241
+msgid "Individual User Redirects"
+msgstr "Individuele doorverwijzing gebruiker"
+
+#: modules/custom-redirects/custom_redirects_admin.php:84
+msgid "... Choose"
+msgstr "... Kies"
+
+#: modules/custom-redirects/custom_redirects_admin.php:92
+msgid "Select a user role."
+msgstr "Selecteer een gebruikersrol."
+
+#: modules/custom-redirects/custom_redirects_admin.php:101
+#: modules/custom-redirects/custom_redirects_admin.php:242
+msgid "User Role based Redirects"
+msgstr "Gebruikersrol gebaseerde doorverwijzingen"
+
+#: modules/custom-redirects/custom_redirects_admin.php:120
+#: modules/custom-redirects/custom_redirects_admin.php:243
+msgid "Global Redirects"
+msgstr "Standaard doorverwijzingen"
+
+#: modules/custom-redirects/custom_redirects_admin.php:133
+msgid "Login ( wp_login.php )"
+msgstr "Inloggen ( wp_login.php )"
+
+#: modules/custom-redirects/custom_redirects_admin.php:134
+msgid "Register ( wp-login.php?action=register )"
+msgstr "Registratie ( wp-login.php?action=register )"
+
+#: modules/custom-redirects/custom_redirects_admin.php:135
+msgid "Lost Password ( wp-login.php?action=lostpassword )"
+msgstr "Wachtwoord vergeten ( wp-login.php?action=lostpassword )"
+
+#: modules/custom-redirects/custom_redirects_admin.php:136
+msgid "Author Archive ( http://sitename.com/author/admin )"
+msgstr "Auteur Archief ( http://sitename.com/author/admin )"
+
+#: modules/custom-redirects/custom_redirects_admin.php:145
+msgid "Redirect Default WordPress Forms and Pages"
+msgstr "Standaard doorverwijzing van WordPress formulieren en pagina's"
+
+#: modules/custom-redirects/custom_redirects_admin.php:157
+msgid "How does this work?"
+msgstr "Hoe werkt het?"
+
+#: modules/custom-redirects/custom_redirects_admin.php:179
+msgid "<pre>User ID / Username</pre><pre>Redirect</pre><pre>URL</pre>"
+msgstr "<pre>Gebruikers-ID / gebruikersnaam</pre><pre>Doorverwijzen</pre><pre>URL</pre>"
+
+#: modules/custom-redirects/custom_redirects_admin.php:193
+msgid "<pre>User Role</pre><pre>Redirect</pre><pre>URL</pre>"
+msgstr "<pre>Gebruikersrol</pre><pre>Doorverwijzen</pre><pre>URL</pre>"
+
+#: modules/custom-redirects/custom_redirects_admin.php:207
+#: modules/custom-redirects/custom_redirects_admin.php:221
+msgid "<pre>Redirect</pre><pre>URL</pre>"
+msgstr "<pre>Doorverwijzen</pre><pre>URL</pre>"
+
+#: modules/custom-redirects/custom_redirects_admin.php:236
+msgid "These redirects happen after a successful action, like registration or after a successful login."
+msgstr "Deze doorverwijzing vindt plaats na een succesvolle actie, zoals registratie of succesvol inloggen."
+
+#: modules/custom-redirects/custom_redirects_admin.php:238
+msgid "Which redirect happens depends on the following priority:"
+msgstr "Welke doorverwijzing plaatsvindt is afhankelijk van de volgende prioriteit:"
+
+#: modules/custom-redirects/custom_redirects_admin.php:247
+msgid "Redirect Default WordPress forms and pages"
+msgstr "Standaard doorverwijzing van WordPress formulieren en pagina's"
+
+#: modules/custom-redirects/custom_redirects_admin.php:248
+msgid "With these you can redirect various WordPress forms and pages to pages created with profile builder."
+msgstr "Met deze kun je diverse WordPress formulieren en pagina's doorverwijzen naar pagina's die zijn gemaakt met Profile Builder."
+
+#: modules/custom-redirects/custom_redirects_admin.php:250
+msgid "Available tags for dynamic URLs"
+msgstr "Beschikbare tags voor dynamische URLs"
+
+#: modules/custom-redirects/custom_redirects_admin.php:251
+msgid "You use the following tags in your URLs to redirect users to various pages."
+msgstr "Je gebruikt de volgende tags in je URLs om gebruikers door te verwijzen naar diverse pagina's."
+
+#: modules/custom-redirects/custom_redirects_admin.php:253
+msgid "generates a url of the current website homepage."
+msgstr "genereert een homepage link van de huidige website."
+
+#: modules/custom-redirects/custom_redirects_admin.php:254
+msgid "in WordPress the <a target='_blank' href='https://codex.wordpress.org/Function_Reference/site_url'>site url</a> can be different then the home url"
+msgstr "in WordPress kan de <a target='_blank' href='https://codex.wordpress.org/Function_Reference/site_url'>site url</a> anders zijn dan de home url"
+
+#: modules/custom-redirects/custom_redirects_admin.php:255
+msgid "the ID of the user"
+msgstr "de ID van de gebruiker"
+
+#: modules/custom-redirects/custom_redirects_admin.php:256
+msgid "the URL sanitized version of the username, the user nicename can be safely used in URLs since it can't contain special characters or spaces."
+msgstr "de voor URL opgeschoonde versie van de gebruikersnaam, de vereenvoudigde gebruikersnaam kan veilig worden gebruikt in URLs omdat het geen speciale karakters of spaties kan bevatten."
+
+#: modules/custom-redirects/custom_redirects_admin.php:257
+msgid "the URL of the previously visited page"
+msgstr "de URL van de hiervoor bezochte pagina"
+
+#: modules/custom-redirects/custom_redirects_admin.php:340
+#: modules/custom-redirects/custom_redirects_admin.php:346
+#: modules/custom-redirects/custom_redirects_admin.php:352
+msgid "You can't add duplicate redirects!"
+msgstr "Je kunt doorverwijzingen niet dupliceren!"
+
+#: admin/admin-functions.php:41
+msgid "Display name publicly as - only appears on the Edit Profile page!"
+msgstr "Toon naam publiekelijk als - wordt alleen getoond op de Profiel bewerkpagina!"
+
+#: admin/basic-info.php:37
+msgid "Friction-less login using %s shortcode or a widget."
+msgstr "Probleemloos inloggen door gebruik van %s shortcode of een widget."
+
+#: admin/basic-info.php:41
+msgid "Beautiful registration forms fully customizable using the %s shortcode."
+msgstr "Prachtige volledig aan te passen registratieformulieren door gebruik van de %s shortcode."
+
+#: admin/basic-info.php:45
+msgid "Straight forward edit profile forms using %s shortcode."
+msgstr "Eenvoudige profiel bewerkingsformulieren door gebruik van de %s shortcode."
+
+#: admin/basic-info.php:58
+msgid "Allow users to recover their password in the front-end using the %s."
+msgstr "Sta gebruikers toe om wachtwoord in front-end te achterhalen door gebruik van de %s."
+
+#: admin/basic-info.php:140
+msgid "To create a page containing the users registered to this current site/blog, insert the following shortcode in a page of your chosing: %s."
+msgstr "Om een pagina te maken met alle geregistreerde gebruikers van deze huidige site/blog, plaats de volgende shortcode op de gewenste pagina: %s."
+
+#: admin/general-settings.php:118
+msgid "\"Admin Approval\" on User Role:"
+msgstr "\"Goedkeuring Beheerder\" voor gebruikersrol:"
+
+#: admin/general-settings.php:137
+msgid "Select on what user roles to activate Admin Approval."
+msgstr "Selecteer gebruikersrollen om Goedkeuring Beheerder te activeren."
+
+#: admin/manage-fields.php:131
+msgid "Display on PB forms"
+msgstr "Toon op PB formulieren"
+
+#: admin/manage-fields.php:131
+msgid "PB Login"
+msgstr "PB inloggen"
+
+#: admin/manage-fields.php:131
+msgid "PB Register"
+msgstr "PB registratie"
+
+#: admin/manage-fields.php:131
+msgid "PB Recover Password"
+msgstr "PB wachtwoord herstel"
+
+#: admin/manage-fields.php:131
+msgid "Select on which Profile Builder forms to display reCAPTCHA"
+msgstr "Selecteer Profile Builder formulieren om reCAPTCHA te tonen"
+
+#: admin/manage-fields.php:132
+msgid "Display on default WP forms"
+msgstr "Toon op standaard WP formulieren"
+
+#: admin/manage-fields.php:132
+msgid "Default WP Login"
+msgstr "Standaard WP inloggen"
+
+#: admin/manage-fields.php:132
+msgid "Default WP Register"
+msgstr "Standaard WP registratie"
+
+#: admin/manage-fields.php:132
+msgid "Default WP Recover Password"
+msgstr "Standaard WP wachtwoord herstel"
+
+#: admin/manage-fields.php:132
+msgid "Select on which default WP forms to display reCAPTCHA"
+msgstr "Selecteer standaard WP formulieren om reCAPTCHA te tonen"
+
+#: admin/manage-fields.php:138 admin/manage-fields.php:139
+#: admin/manage-fields.php:140
+msgid "Default option of the field"
+msgstr "Standaard optie van het veld"
+
+#: admin/manage-fields.php:279
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Afghanistan"
+msgstr "Afghanistan"
+
+#: admin/manage-fields.php:280
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Aland Islands"
+msgstr "Aland Eilanden"
+
+#: admin/manage-fields.php:281
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Albania"
+msgstr "Albanië"
+
+#: admin/manage-fields.php:282
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Algeria"
+msgstr "Algerije"
+
+#: admin/manage-fields.php:283
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "American Samoa"
+msgstr "Amerikaans Samoa"
+
+#: admin/manage-fields.php:284
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Andorra"
+msgstr "Andorra"
+
+#: admin/manage-fields.php:285
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Angola"
+msgstr "Angola"
+
+#: admin/manage-fields.php:286
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Anguilla"
+msgstr "Anguilla"
+
+#: admin/manage-fields.php:287
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Antarctica"
+msgstr "Antarctica"
+
+#: admin/manage-fields.php:288
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Antigua and Barbuda"
+msgstr "Antigua en Barbuda"
+
+#: admin/manage-fields.php:289
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Argentina"
+msgstr "Argentinië"
+
+#: admin/manage-fields.php:290
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Armenia"
+msgstr "Armenië"
+
+#: admin/manage-fields.php:291
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Aruba"
+msgstr "Aruba"
+
+#: admin/manage-fields.php:292
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Australia"
+msgstr "Australië"
+
+#: admin/manage-fields.php:293
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Austria"
+msgstr "Oostenrijk"
+
+#: admin/manage-fields.php:294
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Azerbaijan"
+msgstr "Azerbeidzjan"
+
+#: admin/manage-fields.php:295
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Bahamas"
+msgstr "Bahamas"
+
+#: admin/manage-fields.php:296
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Bahrain"
+msgstr "Bahrain"
+
+#: admin/manage-fields.php:297
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Bangladesh"
+msgstr "Bangladesh"
+
+#: admin/manage-fields.php:298
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Barbados"
+msgstr "Barbados"
+
+#: admin/manage-fields.php:299
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Belarus"
+msgstr "Wit Rusland"
+
+#: admin/manage-fields.php:300
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Belgium"
+msgstr "België "
+
+#: admin/manage-fields.php:301
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Belize"
+msgstr "Belize"
+
+#: admin/manage-fields.php:302
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Benin"
+msgstr "Benin"
+
+#: admin/manage-fields.php:303
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Bermuda"
+msgstr "Bermuda"
+
+#: admin/manage-fields.php:304
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Bhutan"
+msgstr "Bhutan"
+
+#: admin/manage-fields.php:305
+msgid "Bolivia"
+msgstr "Bolivia"
+
+#: admin/manage-fields.php:306
+msgid "Bonaire, Saint Eustatius and Saba"
+msgstr "Bonaire, Sint Eustatius en Saba"
+
+#: admin/manage-fields.php:307
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Bosnia and Herzegovina"
+msgstr "Bosnie en Herzegovina"
+
+#: admin/manage-fields.php:308
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Botswana"
+msgstr "Botswana"
+
+#: admin/manage-fields.php:309
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Bouvet Island"
+msgstr "Bouvet Eiland"
+
+#: admin/manage-fields.php:310
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Brazil"
+msgstr "Brazilië"
+
+#: admin/manage-fields.php:311
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "British Indian Ocean Territory"
+msgstr "Brits Indische Oceaanterritorium"
+
+#: admin/manage-fields.php:312
+msgid "British Virgin Islands"
+msgstr "Britse Maagdeneilanden"
+
+#: admin/manage-fields.php:313
+msgid "Brunei"
+msgstr "Brunei"
+
+#: admin/manage-fields.php:314
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Bulgaria"
+msgstr "Bulgarije"
+
+#: admin/manage-fields.php:315
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Burkina Faso"
+msgstr "Burkina Faso"
+
+#: admin/manage-fields.php:316
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Burundi"
+msgstr "Burundi"
+
+#: admin/manage-fields.php:317
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Cambodia"
+msgstr "Cambodja"
+
+#: admin/manage-fields.php:318
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Cameroon"
+msgstr "Kameroen"
+
+#: admin/manage-fields.php:319
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Canada"
+msgstr "Canada"
+
+#: admin/manage-fields.php:320
+msgid "Cape Verde"
+msgstr "Kaapverdië"
+
+#: admin/manage-fields.php:321
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Cayman Islands"
+msgstr "Kaaimaneilanden"
+
+#: admin/manage-fields.php:322
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Central African Republic"
+msgstr "Centraal Afrikaanse Republiek"
+
+#: admin/manage-fields.php:323
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Chad"
+msgstr "Tsjaad"
+
+#: admin/manage-fields.php:324
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Chile"
+msgstr "Chili"
+
+#: admin/manage-fields.php:325
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "China"
+msgstr "China"
+
+#: admin/manage-fields.php:326
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Christmas Island"
+msgstr "Kersteiland"
+
+#: admin/manage-fields.php:327
+msgid "Cocos Islands"
+msgstr "Cocoseilanden"
+
+#: admin/manage-fields.php:328
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Colombia"
+msgstr "Colombia"
+
+#: admin/manage-fields.php:329
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Comoros"
+msgstr "Comoren"
+
+#: admin/manage-fields.php:330
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Cook Islands"
+msgstr "Cookeilanden"
+
+#: admin/manage-fields.php:331
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Costa Rica"
+msgstr "Costa Rica"
+
+#: admin/manage-fields.php:332
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Croatia"
+msgstr "Kroatië"
+
+#: admin/manage-fields.php:333
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Cuba"
+msgstr "Cuba"
+
+#: admin/manage-fields.php:334
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Curacao"
+msgstr "Curacao"
+
+#: admin/manage-fields.php:335
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Cyprus"
+msgstr "Cyprus"
+
+#: admin/manage-fields.php:336
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Czech Republic"
+msgstr "Tsjechië"
+
+#: admin/manage-fields.php:337
+msgid "Democratic Republic of the Congo"
+msgstr "Democratische Republiek Congo"
+
+#: admin/manage-fields.php:338
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Denmark"
+msgstr "Denemarken"
+
+#: admin/manage-fields.php:339
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Djibouti"
+msgstr "Djibouti"
+
+#: admin/manage-fields.php:340
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Dominica"
+msgstr "Dominica"
+
+#: admin/manage-fields.php:341
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Dominican Republic"
+msgstr "Dominicaanse Republiek"
+
+#: admin/manage-fields.php:342
+msgid "East Timor"
+msgstr "Oost Timor"
+
+#: admin/manage-fields.php:343
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Ecuador"
+msgstr "Ecuador"
+
+#: admin/manage-fields.php:344
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Egypt"
+msgstr "Egypte"
+
+#: admin/manage-fields.php:345
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "El Salvador"
+msgstr "El Salvador"
+
+#: admin/manage-fields.php:346
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Equatorial Guinea"
+msgstr "Equatoriaal Guinea"
+
+#: admin/manage-fields.php:347
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Eritrea"
+msgstr "Eritrea"
+
+#: admin/manage-fields.php:348
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Estonia"
+msgstr "Estland"
+
+#: admin/manage-fields.php:349
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Ethiopia"
+msgstr "Ethiopië"
+
+#: admin/manage-fields.php:350
+msgid "Falkland Islands"
+msgstr "Falklandeilanden"
+
+#: admin/manage-fields.php:351
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Faroe Islands"
+msgstr "Faeröer"
+
+#: admin/manage-fields.php:352
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Fiji"
+msgstr "Fiji"
+
+#: admin/manage-fields.php:353
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Finland"
+msgstr "Finland"
+
+#: admin/manage-fields.php:354
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "France"
+msgstr "Frankrijk"
+
+#: admin/manage-fields.php:355
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "French Guiana"
+msgstr "Frans Guyana"
+
+#: admin/manage-fields.php:356
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "French Polynesia"
+msgstr "Frans Polynesië"
+
+#: admin/manage-fields.php:357
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "French Southern Territories"
+msgstr " Franse Zuidelijke Gebieden"
+
+#: admin/manage-fields.php:358
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Gabon"
+msgstr "Gabon"
+
+#: admin/manage-fields.php:359
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Gambia"
+msgstr "Gambia"
+
+#: admin/manage-fields.php:360
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Georgia"
+msgstr "Georgië"
+
+#: admin/manage-fields.php:361
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Germany"
+msgstr "Duitsland"
+
+#: admin/manage-fields.php:362
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Ghana"
+msgstr "Ghana"
+
+#: admin/manage-fields.php:363
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Gibraltar"
+msgstr "Gibraltar"
+
+#: admin/manage-fields.php:364
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Greece"
+msgstr "Griekenland"
+
+#: admin/manage-fields.php:365
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Greenland"
+msgstr "Groenland"
+
+#: admin/manage-fields.php:366
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Grenada"
+msgstr "Grenada"
+
+#: admin/manage-fields.php:367
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Guadeloupe"
+msgstr "Guadeloupe"
+
+#: admin/manage-fields.php:368
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Guam"
+msgstr "Guam"
+
+#: admin/manage-fields.php:369
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Guatemala"
+msgstr "Guatemala"
+
+#: admin/manage-fields.php:370
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Guernsey"
+msgstr "Guernsey"
+
+#: admin/manage-fields.php:371
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Guinea"
+msgstr "Guinea"
+
+#: admin/manage-fields.php:372
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Guinea-Bissau"
+msgstr "Guinea-Bissau"
+
+#: admin/manage-fields.php:373
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Guyana"
+msgstr "Guyana"
+
+#: admin/manage-fields.php:374
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Haiti"
+msgstr "Haiti"
+
+#: admin/manage-fields.php:375
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Heard Island and McDonald Islands"
+msgstr "Heard en McDonaldeilanden"
+
+#: admin/manage-fields.php:376
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Honduras"
+msgstr "Honduras"
+
+#: admin/manage-fields.php:377
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Hong Kong"
+msgstr "Hong Kong"
+
+#: admin/manage-fields.php:378
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Hungary"
+msgstr "Hongarije"
+
+#: admin/manage-fields.php:379
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Iceland"
+msgstr "IJsland"
+
+#: admin/manage-fields.php:380
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "India"
+msgstr "India"
+
+#: admin/manage-fields.php:381
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Indonesia"
+msgstr "Indonesië"
+
+#: admin/manage-fields.php:382
+msgid "Iran"
+msgstr "Iran"
+
+#: admin/manage-fields.php:383
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Iraq"
+msgstr "Irak"
+
+#: admin/manage-fields.php:384
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Ireland"
+msgstr "Ierland"
+
+#: admin/manage-fields.php:385
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Isle of Man"
+msgstr "Man"
+
+#: admin/manage-fields.php:386
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Israel"
+msgstr "Israel"
+
+#: admin/manage-fields.php:387
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Italy"
+msgstr "Italië"
+
+#: admin/manage-fields.php:388
+msgid "Ivory Coast"
+msgstr "Ivoorkust"
+
+#: admin/manage-fields.php:389
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Jamaica"
+msgstr "Jamaica"
+
+#: admin/manage-fields.php:390
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Japan"
+msgstr "Japan"
+
+#: admin/manage-fields.php:391
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Jersey"
+msgstr "Jersey"
+
+#: admin/manage-fields.php:392
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Jordan"
+msgstr "Jordanië"
+
+#: admin/manage-fields.php:393
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Kazakhstan"
+msgstr "Kazakhstan"
+
+#: admin/manage-fields.php:394
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Kenya"
+msgstr "Kenia"
+
+#: admin/manage-fields.php:395
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Kiribati"
+msgstr "Kiribati"
+
+#: admin/manage-fields.php:396
+msgid "Kosovo"
+msgstr "Kosovo"
+
+#: admin/manage-fields.php:397
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Kuwait"
+msgstr "Koeweit"
+
+#: admin/manage-fields.php:398
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Kyrgyzstan"
+msgstr "Kirgizië"
+
+#: admin/manage-fields.php:399
+msgid "Laos"
+msgstr "Laos"
+
+#: admin/manage-fields.php:400
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Latvia"
+msgstr "Letland"
+
+#: admin/manage-fields.php:401
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Lebanon"
+msgstr "Libanon"
+
+#: admin/manage-fields.php:402
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Lesotho"
+msgstr "Lesotho"
+
+#: admin/manage-fields.php:403
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Liberia"
+msgstr "Liberia"
+
+#: admin/manage-fields.php:404
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Libya"
+msgstr "Libië"
+
+#: admin/manage-fields.php:405
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Liechtenstein"
+msgstr "Liechtenstein"
+
+#: admin/manage-fields.php:406
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Lithuania"
+msgstr "Litouwen"
+
+#: admin/manage-fields.php:407
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Luxembourg"
+msgstr "Luxemburg"
+
+#: admin/manage-fields.php:408
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Macao"
+msgstr "Macao"
+
+#: admin/manage-fields.php:409
+msgid "Macedonia"
+msgstr "Macedonië"
+
+#: admin/manage-fields.php:410
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Madagascar"
+msgstr "Madagascar"
+
+#: admin/manage-fields.php:411
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Malawi"
+msgstr "Malawi"
+
+#: admin/manage-fields.php:412
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Malaysia"
+msgstr "Maleisië"
+
+#: admin/manage-fields.php:413
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Maldives"
+msgstr "Maldiven"
+
+#: admin/manage-fields.php:414
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Mali"
+msgstr "Mali"
+
+#: admin/manage-fields.php:415
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Malta"
+msgstr "Malta"
+
+#: admin/manage-fields.php:416
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Marshall Islands"
+msgstr "Marshalleilanden"
+
+#: admin/manage-fields.php:417
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Martinique"
+msgstr "Martinique"
+
+#: admin/manage-fields.php:418
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Mauritania"
+msgstr "Mauritanië"
+
+#: admin/manage-fields.php:419
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Mauritius"
+msgstr "Mauritius"
+
+#: admin/manage-fields.php:420
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Mayotte"
+msgstr "Mayotte"
+
+#: admin/manage-fields.php:421
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Mexico"
+msgstr "Mexico"
+
+#: admin/manage-fields.php:422
+msgid "Micronesia"
+msgstr "Micronesia"
+
+#: admin/manage-fields.php:423
+msgid "Moldova"
+msgstr "Moldavië"
+
+#: admin/manage-fields.php:424
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Monaco"
+msgstr "Monaco"
+
+#: admin/manage-fields.php:425
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Mongolia"
+msgstr "Mongolië"
+
+#: admin/manage-fields.php:426
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Montenegro"
+msgstr "Montenegro"
+
+#: admin/manage-fields.php:427
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Montserrat"
+msgstr "Montserrat"
+
+#: admin/manage-fields.php:428
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Morocco"
+msgstr "Marokko"
+
+#: admin/manage-fields.php:429
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Mozambique"
+msgstr "Mozambique"
+
+#: admin/manage-fields.php:430
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Myanmar"
+msgstr "Myanmar"
+
+#: admin/manage-fields.php:431
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Namibia"
+msgstr "Namibië"
+
+#: admin/manage-fields.php:432
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Nauru"
+msgstr "Nauru"
+
+#: admin/manage-fields.php:433
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Nepal"
+msgstr "Nepal"
+
+#: admin/manage-fields.php:434
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Netherlands"
+msgstr "Nederland"
+
+#: admin/manage-fields.php:435
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "New Caledonia"
+msgstr "Nieuw Caledonië"
+
+#: admin/manage-fields.php:436
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "New Zealand"
+msgstr "Nieuw Zeeland"
+
+#: admin/manage-fields.php:437
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Nicaragua"
+msgstr "Nicaragua"
+
+#: admin/manage-fields.php:438
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Niger"
+msgstr "Niger"
+
+#: admin/manage-fields.php:439
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Nigeria"
+msgstr "Nigeria"
+
+#: admin/manage-fields.php:440
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Niue"
+msgstr "Niue"
+
+#: admin/manage-fields.php:441
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Norfolk Island"
+msgstr "Norfolk Eiland"
+
+#: admin/manage-fields.php:442
+msgid "North Korea"
+msgstr "Noord Korea"
+
+#: admin/manage-fields.php:443
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Northern Mariana Islands"
+msgstr "Noordelijke Marianen"
+
+#: admin/manage-fields.php:444
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Norway"
+msgstr "Noorwegen"
+
+#: admin/manage-fields.php:445
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Oman"
+msgstr "Oman"
+
+#: admin/manage-fields.php:446
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Pakistan"
+msgstr "Pakistan"
+
+#: admin/manage-fields.php:447
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Palau"
+msgstr "Palau"
+
+#: admin/manage-fields.php:448
+msgid "Palestinian Territory"
+msgstr "Palestijnse gebieden"
+
+#: admin/manage-fields.php:449
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Panama"
+msgstr "Panama"
+
+#: admin/manage-fields.php:450
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Papua New Guinea"
+msgstr "Papoea Nieuw Guinea"
+
+#: admin/manage-fields.php:451
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Paraguay"
+msgstr "Paraguay"
+
+#: admin/manage-fields.php:452
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Peru"
+msgstr "Peru"
+
+#: admin/manage-fields.php:453
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Philippines"
+msgstr "Filipijnen"
+
+#: admin/manage-fields.php:454
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Pitcairn"
+msgstr "Pitcairn"
+
+#: admin/manage-fields.php:455
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Poland"
+msgstr "Polen"
+
+#: admin/manage-fields.php:456
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Portugal"
+msgstr "Portugal"
+
+#: admin/manage-fields.php:457
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Puerto Rico"
+msgstr "Puerto Rico"
+
+#: admin/manage-fields.php:458
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Qatar"
+msgstr "Qatar"
+
+#: admin/manage-fields.php:459
+msgid "Republic of the Congo"
+msgstr "Republiek Congo"
+
+#: admin/manage-fields.php:460
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Reunion"
+msgstr "Reunion"
+
+#: admin/manage-fields.php:461
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Romania"
+msgstr "Roemenië"
+
+#: admin/manage-fields.php:462
+msgid "Russia"
+msgstr "Rusland"
+
+#: admin/manage-fields.php:463
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Rwanda"
+msgstr "Rwanda"
+
+#: admin/manage-fields.php:464
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Saint Barthelemy"
+msgstr "Saint Barthelemy"
+
+#: admin/manage-fields.php:465
+msgid "Saint Helena"
+msgstr "Sint Helena"
+
+#: admin/manage-fields.php:466
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Saint Kitts and Nevis"
+msgstr "Saint Kitts en Nevis"
+
+#: admin/manage-fields.php:467
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Saint Lucia"
+msgstr "Saint Lucia"
+
+#: admin/manage-fields.php:468
+msgid "Saint Martin"
+msgstr "Sint Maarten"
+
+#: admin/manage-fields.php:469
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Saint Pierre and Miquelon"
+msgstr "Saint Pierre en Miquelon"
+
+#: admin/manage-fields.php:470
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Saint Vincent and the Grenadines"
+msgstr "Saint Vincent en de Grenadines"
+
+#: admin/manage-fields.php:471
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Samoa"
+msgstr "Samoa"
+
+#: admin/manage-fields.php:472
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "San Marino"
+msgstr "San Marino"
+
+#: admin/manage-fields.php:473
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Sao Tome and Principe"
+msgstr "Sao Tomé en Principe"
+
+#: admin/manage-fields.php:474
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Saudi Arabia"
+msgstr "Saoedi-Arabië"
+
+#: admin/manage-fields.php:475
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Senegal"
+msgstr "Senegal"
+
+#: admin/manage-fields.php:476
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Serbia"
+msgstr "Servië"
+
+#: admin/manage-fields.php:477
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Seychelles"
+msgstr "Seychellen"
+
+#: admin/manage-fields.php:478
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Sierra Leone"
+msgstr "Sierra Leone"
+
+#: admin/manage-fields.php:479
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Singapore"
+msgstr "Singapore"
+
+#: admin/manage-fields.php:480
+msgid "Sint Maarten"
+msgstr "Sint Maarten"
+
+#: admin/manage-fields.php:481
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Slovakia"
+msgstr "Slowakije"
+
+#: admin/manage-fields.php:482
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Slovenia"
+msgstr "Slovenië"
+
+#: admin/manage-fields.php:483
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Solomon Islands"
+msgstr "Salomonseilanden"
+
+#: admin/manage-fields.php:484
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Somalia"
+msgstr "Somalië"
+
+#: admin/manage-fields.php:485
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "South Africa"
+msgstr "Zuid Afrika"
+
+#: admin/manage-fields.php:486
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "South Georgia and the South Sandwich Islands"
+msgstr "Zuid Georgia en de Zuidelijke Sandwicheilanden"
+
+#: admin/manage-fields.php:487
+msgid "South Korea"
+msgstr "Zuid Korea"
+
+#: admin/manage-fields.php:488
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "South Sudan"
+msgstr "Zuid Soedan"
+
+#: admin/manage-fields.php:489
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Spain"
+msgstr "Spanje"
+
+#: admin/manage-fields.php:490
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Sri Lanka"
+msgstr "Sri Lanka"
+
+#: admin/manage-fields.php:491
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Sudan"
+msgstr "Soedan"
+
+#: admin/manage-fields.php:492
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Suriname"
+msgstr "Suriname"
+
+#: admin/manage-fields.php:493
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Svalbard and Jan Mayen"
+msgstr "Spitsbergen en Jan Mayen"
+
+#: admin/manage-fields.php:494
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Swaziland"
+msgstr "Swaziland"
+
+#: admin/manage-fields.php:495
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Sweden"
+msgstr "Zweden"
+
+#: admin/manage-fields.php:496
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Switzerland"
+msgstr "Zwitserland"
+
+#: admin/manage-fields.php:497
+msgid "Syria"
+msgstr "Syrië"
+
+#: admin/manage-fields.php:498
+msgid "Taiwan"
+msgstr "Taiwan"
+
+#: admin/manage-fields.php:499
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Tajikistan"
+msgstr "Tajikistan"
+
+#: admin/manage-fields.php:500
+msgid "Tanzania"
+msgstr "Tanzania"
+
+#: admin/manage-fields.php:501
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Thailand"
+msgstr "Thailand"
+
+#: admin/manage-fields.php:502
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Togo"
+msgstr "Togo"
+
+#: admin/manage-fields.php:503
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Tokelau"
+msgstr "Tokelau"
+
+#: admin/manage-fields.php:504
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Tonga"
+msgstr "Tonga"
+
+#: admin/manage-fields.php:505
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Trinidad and Tobago"
+msgstr "Trinidad en Tobago"
+
+#: admin/manage-fields.php:506
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Tunisia"
+msgstr "Tunesië"
+
+#: admin/manage-fields.php:507
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Turkey"
+msgstr "Turkije"
+
+#: admin/manage-fields.php:508
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Turkmenistan"
+msgstr "Turkmenistan"
+
+#: admin/manage-fields.php:509
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Turks and Caicos Islands"
+msgstr "Turks- en Caicoseilanden"
+
+#: admin/manage-fields.php:510
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Tuvalu"
+msgstr "Tuvalu"
+
+#: admin/manage-fields.php:511
+msgid "U.S. Virgin Islands"
+msgstr "Amerikaanse Maagdeneilanden"
+
+#: admin/manage-fields.php:512
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Uganda"
+msgstr "Uganda"
+
+#: admin/manage-fields.php:513
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Ukraine"
+msgstr "Oekraïne"
+
+#: admin/manage-fields.php:514
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "United Arab Emirates"
+msgstr "Verenigde Arabische Emiraten"
+
+#: admin/manage-fields.php:515
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "United Kingdom"
+msgstr "Verenigd Koninkrijk"
+
+#: admin/manage-fields.php:516
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "United States"
+msgstr "Verenigde Staten"
+
+#: admin/manage-fields.php:517
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "United States Minor Outlying Islands"
+msgstr "Kleine afgelegen eilanden van de Verenigde Staten"
+
+#: admin/manage-fields.php:518
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Uruguay"
+msgstr "Uruguay"
+
+#: admin/manage-fields.php:519
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Uzbekistan"
+msgstr "Oezbekistan"
+
+#: admin/manage-fields.php:520
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Vanuatu"
+msgstr "Vanuatu"
+
+#: admin/manage-fields.php:521
+msgid "Vatican"
+msgstr "Vaticaanstad"
+
+#: admin/manage-fields.php:522
+msgid "Venezuela"
+msgstr "Venezuela"
+
+#: admin/manage-fields.php:523
+msgid "Vietnam"
+msgstr "Vietnam"
+
+#: admin/manage-fields.php:524
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Wallis and Futuna"
+msgstr "Wallis en Futuna"
+
+#: admin/manage-fields.php:525
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Western Sahara"
+msgstr "Westelijke Sahara"
+
+#: admin/manage-fields.php:526
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Yemen"
+msgstr "Jemen"
+
+#: admin/manage-fields.php:527
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Zambia"
+msgstr "Zambia"
+
+#: admin/manage-fields.php:528
+#: front-end/extra-fields/select-country/select-country.php:10
+msgid "Zimbabwe"
+msgstr "Zimbabwe"
+
+#: admin/manage-fields.php:1216
+msgid "With Profile Builder Pro v2 you can display different fields in the registration and edit profile forms, using the Multiple Registration & Edit Profile Forms module."
+msgstr "Met Profile Builder Pro v2 kun je verschillende velden in de registratie en profiel bewerkingsformulieren tonen, door gebruik van de Meerdere Registratie & Profiel Bewerkingsformulieren module."
+
+#: assets/misc/plugin-compatibilities.php:237
+msgid "Your account has to be confirmed by an administrator before you can log in."
+msgstr "Je account moet eerst geaccepteerd worden bij een administrator voordat u kan inloggen"
+
+#: features/admin-approval/admin-approval.php:214
+msgid "Your account has been successfully created!"
+msgstr "Je account is succesvol aangemaakt."
+
+#: features/functions.php:678
+#: front-end/extra-fields/recaptcha/recaptcha.php:374
+#: front-end/extra-fields/recaptcha/recaptcha.php:379
+#: front-end/extra-fields/recaptcha/recaptcha.php:421
+#: front-end/extra-fields/recaptcha/recaptcha.php:458
+msgid "Please enter a (valid) reCAPTCHA value"
+msgstr "Vul een (valide) reCAPTCHA waarde in"
+
+#: front-end/extra-fields/recaptcha/recaptcha.php:421
+msgid "Click the BACK button on your browser, and try again."
+msgstr "Klik op de TERUG button van uw browser, en probeer opnieuw."
+
+#: front-end/extra-fields/upload/upload_helper_functions.php:78
+#: front-end/extra-fields/upload/upload_helper_functions.php:87
+msgid "Sorry, you cannot upload this file type for this field."
+msgstr "Sorry, u kunt dit bestandstype niet uploaden voor dit veld."
+
+#: front-end/extra-fields/upload/upload_helper_functions.php:94
+msgid "An error occurred, please try again later."
+msgstr "Een fout heeft zich voorgedaan, probeer later opnieuw"
+
+#: modules/user-listing/userlisting.php:282
+msgid "More"
+msgstr "Meer"
+
+#: modules/user-listing/userlisting.php:376
+msgid "You do not have permission to view this user list."
+msgstr "U heeft geen permissie om de gebruikers lijst te bekijken."
+
+#: modules/user-listing/userlisting.php:389
+msgid "You do not have the required user role to view this user list."
+msgstr "U heeft niet de juiste gebruikersrol om de gebruikers lijst te bekijken."
+
+#: modules/user-listing/userlisting.php:2186
+msgid "Ascending"
+msgstr "Oplopend"
+
+#: modules/user-listing/userlisting.php:2187
+msgid "Descending"
+msgstr "Aflopend"
+
+#: admin/add-ons.php:148 admin/add-ons.php:248
+#: admin/pms-cross-promotion.php:134 admin/pms-cross-promotion.php:213
+msgid "Download Now"
+msgstr "Nu downloaden"
+
+#: admin/admin-functions.php:200
+msgid "If you enjoy using <strong> %1$s </strong> please <a href=\"%2$s\" target=\"_blank\">rate us on WordPress.org</a>. More happy users means more features, less bugs and better support for everyone. "
+msgstr "Als u <strong> %1$s </strong> graag gebruikt, wilt u ons dan <a href=\"%2$s\" target=\"_blank\">beoordelen op WordPress.org</a>. Meer tevreden gebruikers betekent meer functies, minder fouten en betere ondersteuning voor iedereen. "
+
+#: admin/manage-fields.php:80
+msgid "Choose one of the supported field types"
+msgstr "Kies een van de ondersteunde veldtypes"
+
+#: admin/manage-fields.php:82
+msgid ". Extra Field Types are available in <a href=\"%s\">Hobbyist or PRO versions</a>."
+msgstr ". Extra veldtypes zijn beschikbaar in <a href=\"%s\">Hobbyist of PRO versies</a>."
+
+#: admin/manage-fields.php:129
+msgid "Site Key"
+msgstr "Website sleutel"
+
+#: admin/manage-fields.php:129
+msgid "The site key from Google, <a href=\"http://www.google.com/recaptcha\" target=\"_blank\">www.google.com/recaptcha</a>"
+msgstr "De website sleutel van Google, <a href=\"http://www.google.com/recaptcha\" target=\"_blank\">www.google.com/recaptcha</a>"
+
+#: admin/manage-fields.php:130
+msgid "Secret Key"
+msgstr "Geheime sleutel"
+
+#: admin/manage-fields.php:130
+msgid "The secret key from Google, <a href=\"http://www.google.com/recaptcha\" target=\"_blank\">www.google.com/recaptcha</a>"
+msgstr "De geheime sleutel van Google, <a href=\"http://www.google.com/recaptcha\" target=\"_blank\">www.google.com/recaptcha</a>"
+
+#: admin/manage-fields.php:1020
+msgid "You must enter the site key\n"
+msgstr "U moet de website sleutel invoeren\n"
+
+#: admin/manage-fields.php:1022
+msgid "You must enter the secret key\n"
+msgstr "U moet de geheime sleutel invoeren\n"
+
+#: admin/add-ons.php:10 admin/add-ons.php:32
+msgid "Add-Ons"
+msgstr "Invoegtoepassingen"
+
+#: admin/add-ons.php:34 admin/add-ons.php:129 admin/add-ons.php:231
+#: admin/pms-cross-promotion.php:78 admin/pms-cross-promotion.php:114
+#: admin/pms-cross-promotion.php:193
+msgid "Activate"
+msgstr "Activeren"
+
+#: admin/add-ons.php:36 admin/pms-cross-promotion.php:80
+msgid "Downloading and installing..."
+msgstr "Bezig met downloaden en installeren..."
+
+#: admin/add-ons.php:37 admin/pms-cross-promotion.php:81
+msgid "Installation complete"
+msgstr "Installatie gereed"
+
+#: admin/add-ons.php:39
+msgid "Add-On is Active"
+msgstr "Invoegtoepassing is Actief"
+
+#: admin/add-ons.php:40
+msgid "Add-On has been activated"
+msgstr "Invoegtoepassing is geactiveerd"
+
+#: admin/add-ons.php:41 admin/pms-cross-promotion.php:85
+msgid "Retry Install"
+msgstr "Probeer de installatie opnieuw"
+
+#: admin/add-ons.php:43 admin/add-ons.php:140
+msgid "Add-On is <strong>active</strong>"
+msgstr "Invoegtoepassing is <strong>actief</strong>"
+
+#: admin/add-ons.php:44 admin/add-ons.php:138
+msgid "Add-On is <strong>inactive</strong>"
+msgstr "Invoegtoepassing is <strong>niet actief</strong>"
+
+#: admin/add-ons.php:46 admin/add-ons.php:133 admin/add-ons.php:235
+#: admin/pms-cross-promotion.php:90 admin/pms-cross-promotion.php:118
+#: admin/pms-cross-promotion.php:197
+msgid "Deactivate"
+msgstr "Deactiveren"
+
+#: admin/add-ons.php:47
+msgid "Add-On has been deactivated."
+msgstr "Invoegtoepassing is gedeactiveerd."
+
+#: admin/add-ons.php:59
+msgid "Something went wrong, we could not connect to the server. Please try again later."
+msgstr "Er is iets misgegaan, we konden geen verbinding maken met de server. Probeer het a.u.b. later opnieuw."
+
+#: admin/pms-cross-promotion.php:137 admin/pms-cross-promotion.php:216
+msgid "Install Now"
+msgstr "Nu installeren"
+
+#: admin/add-ons.php:153 admin/add-ons.php:251
+#: admin/pms-cross-promotion.php:141 admin/pms-cross-promotion.php:220
+msgid "Compatible with your version of Profile Builder."
+msgstr "Compatibel met uw versie van Profile Builder."
+
+#: admin/add-ons.php:162
+msgid "Upgrade Profile Builder"
+msgstr "Upgrade Profile Builder"
+
+#: admin/add-ons.php:163
+msgid "Not compatible with Profile Builder"
+msgstr "Niet compatibel met Profile Builder"
+
+#: admin/add-ons.php:171
+msgid "Not compatible with your version of Profile Builder."
+msgstr "Niet compatibel met uw versie van Profile Builder."
+
+#: admin/add-ons.php:172
+msgid "Minimum required Profile Builder version:"
+msgstr "Minimaal vereiste Profile Builder versie:"
+
+#: admin/add-ons.php:177
+msgid "Could not install add-on. Retry or <a href=\"%s\" target=\"_blank\">install manually</a>."
+msgstr "Kon invoegtoepassing niet installeren. Probeer het opnieuw of <a href=\"%s\" target=\"_blank\">installeer handmatig</a>."
+
+#: front-end/default-fields/email/email.php:51
+msgid "You must enter a valid email address."
+msgstr "U moet een geldig e-mailadres invoeren."
+
+#: front-end/default-fields/username/username.php:52
+#: front-end/default-fields/username/username.php:60
+msgid "This username is invalid because it uses illegal characters."
+msgstr "De gebruikersnaam in ongeldig omdat het niet toegestande tekens bevat."
+
+#: front-end/default-fields/username/username.php:52
+#: front-end/default-fields/username/username.php:60
+msgid "Please enter a valid username."
+msgstr "Voer a.u.b. een geldige gebruikersnaam in."
+
+#: front-end/extra-fields/user-role/user-role.php:72
+#: front-end/extra-fields/user-role/user-role.php:85
+msgid "Only administrators can see this field on edit profile forms."
+msgstr "Alleen beheerders kunnen dit veld op profiel bewerkformulieren zien."
+
+#: front-end/extra-fields/user-role/user-role.php:81
+msgid "As an administrator you cannot change your role."
+msgstr "Als een beheerder kunt u uw rol niet wijzigen."
+
+#: modules/email-customizer/admin-email-customizer.php:117
+msgid ""
+"\n"
+"<p>{{username}} has requested a password change via the password reset feature.</p>\n"
+"<p>His/her new password is: {{password}}</p>\n"
+msgstr ""
+"\n"
+"<p>{{username}} heeft een nieuw wachtwoord aangevraagd via de functie 'Wachtwoord Opnieuw Instellen'.</p>\n"
+"<p>Zijn/haar nieuwe wachtwoord is: {{password}}</p>\n"
+
+#: modules/email-customizer/admin-email-customizer.php:141
+msgid "Admin Notification for User Password Reset"
+msgstr "Beheerdersmelding voor Wachtwoord Opnieuw Instellen"
+
+#: modules/email-customizer/email-customizer.php:46
+msgid "Reset Key"
+msgstr "Opnieuw instellen sleutel"
+
+#: modules/email-customizer/email-customizer.php:47
+msgid "Reset Url"
+msgstr "Opnieuw instellen URL"
+
+#: modules/email-customizer/email-customizer.php:48
+msgid "Reset Link"
+msgstr "Opnieuw instellen link"
+
+#: modules/email-customizer/user-email-customizer.php:204
+msgid ""
+"\n"
+"<p>Someone requested that the password be reset for the following account: {{site_name}}<br/>\n"
+"Username: {{username}}</p>\n"
+"<p>If this was a mistake, just ignore this email and nothing will happen.</p>\n"
+"<p>To reset your password, visit the following address:<br/>\n"
+"{{{reset_link}}}</p>\n"
+msgstr ""
+"\n"
+"<p>Iemand heeft gevraagd het wachtwoord opnieuw in te stellen voor het volgende account: {{site_name}}<br/>\n"
+"Gebruikersnaam: {{username}}</p>\n"
+"<p>Als dit niet uw bedoeling was, negeer dan gewoon deze e-mail en er wordt niets gewijzigd.</p>\n"
+"<p>Om uw wachtwoord opnieuw in te stellen, klikt u op de volgende link:<br/>\n"
+"{{{reset_link}}}</p>\n"
+
+#: modules/email-customizer/user-email-customizer.php:218
+msgid "[{{site_name}}] Password Reset"
+msgstr "[{{site_name}}] Wachtwoord Opnieuw Instellen"
+
+#: modules/email-customizer/user-email-customizer.php:229
+msgid "Password Reset Email"
+msgstr "Wachtwoord Opnieuw Instellen E-mail"
+
+#: modules/email-customizer/user-email-customizer.php:235
+msgid ""
+"\n"
+"<p>You have successfully reset your password to: {{password}}</p>\n"
+msgstr ""
+"\n"
+"<p>U hebt uw wachtwoord opnieuw ingesteld naar: {{password}}</p>\n"
+
+#: modules/email-customizer/user-email-customizer.php:245
+msgid "[{{site_name}}] Password Reset Successfully"
+msgstr "[{{site_name}}] Wachtwoord Opnieuw Ingesteld"
+
+#: modules/email-customizer/user-email-customizer.php:256
+msgid "Password Reset Success Email"
+msgstr "Wachtwoord Opnieuw Ingesteld E-mail"
+
+#: modules/user-listing/userlisting.php:159
+msgid "User Nicename"
+msgstr "Vereenvoudigde gebruikersnaam"
+
+#: modules/user-listing/userlisting.php:499
+msgid "None"
+msgstr "Geen"
+
+#: admin/admin-functions.php:132
+msgid "<strong>ERROR</strong>: The password must have the minimum length of %s characters"
+msgstr "<strong>FOUT</strong>: Het wachtwoord moet een minimumlengte van %s karakters hebben"
+
+#: admin/admin-functions.php:148
+msgid "<strong>ERROR</strong>: The password must have a minimum strength of %s"
+msgstr "<strong>FOUT</strong>: Het wachtwoord moet een minimumsterkte van %s hebben"
+
+#: admin/general-settings.php:163
+msgid "Username and Email"
+msgstr "Gebruikersnaam en e-mailadres"
+
+#: admin/general-settings.php:168
+msgid "\"Username and Email\" - users can Log In with both Username and Email."
+msgstr "\"Gebruikersnaam en E-mailadres\" - gebruikers kunnen inloggen met zowel Gebruikersnaam als E-mailadres."
+
+#: admin/general-settings.php:169
+msgid "\"Username\" - users can Log In only with Username."
+msgstr "\"Gebruikersnaam\" - gebruikers kunnen alleen inloggen met Gebruikersnaam."
+
+#: admin/general-settings.php:170
+msgid "\"Email\" - users can Log In only with Email."
+msgstr "\"E-mailadres\" - gebruikers kunnen alleen inloggen met E-mailadres."
+
+#: admin/manage-fields.php:122
+msgid "Specify the extension(s) you want to limit to upload<br/>Example: .ext1,.ext2,.ext3<br/>If not specified, defaults to: .jpg,.jpeg,.gif,.png (.*)"
+msgstr "Specificeer de extensie(s) waartoe u de uploads wilt beperken, <br/>bijvoorbeeld: .ext1,.ext2,.ext3<br/>Indien niet gespecificeerd, is de standaardinstelling: .jpg,.jpeg,.gif,.png (.*)"
+
+#: admin/manage-fields.php:123
+msgid "Specify the extension(s) you want to limit to upload<br/>Example: .ext1,.ext2,.ext3<br/>If not specified, defaults to all WordPress allowed file extensions (.*)"
+msgstr "Specificeer de extensie(s) waartoe u de uploads wilt beperken, <br/>bijvoorbeeld: .ext1,.ext2,.ext3<br/>Indien niet gespecificeerd, is de standaardinstelling de in WordPress toegestane extensies (.*)"
+
+#: admin/manage-fields.php:133
+msgid "User Roles"
+msgstr "Gebruikersrollen"
+
+#: admin/manage-fields.php:133
+msgid "Select which user roles to show to the user ( drag and drop to re-order )"
+msgstr "Selecteer welke gebruikersrollen getoond worden aan de gebruiker (versleep om te herordenen)"
+
+#: admin/manage-fields.php:134
+msgid "User Roles Order"
+msgstr "Volgorde gebruikersrollen"
+
+#: admin/manage-fields.php:134
+msgid "Save the user role order from the user roles checkboxes"
+msgstr "Sla de volgorde van de gebruikersrollen op o.b.v. de selectievakjes voor de gebruikersrollen"
+
+#: admin/manage-fields.php:1125
+msgid "Please select at least one user role\n"
+msgstr "Selecteer minstens één gebruikersrol \n"
+
+#: admin/register-version.php:22
+msgid "Profile Builder Register"
+msgstr "Profile Builder registreren"
+
+#: admin/register-version.php:81
+msgid "The serial number is about to expire soon!"
+msgstr "Het serienummer zal binnenkort verlopen!"
+
+#: admin/register-version.php:81
+msgid " Your serial number is about to expire, please %1$s Renew Your License%2$s."
+msgstr "Uw serienummer is bijna verlopen, %1$s Vernieuw uw licentie %2$s."
+
+#: admin/register-version.php:83
+msgid " Your serial number is expired, please %1$s Renew Your License%2$s."
+msgstr "Uw serienummer is verlopen, %1$s Vernieuw uw licentie %2$s."
+
+#: assets/lib/wck-api/wordpress-creation-kit.php:334
+msgid "Add Entry"
+msgstr "Voeg toe"
+
+#: features/email-confirmation/class-email-confirmation.php:91
+msgid "show"
+msgstr "tonen"
+
+#: features/functions.php:736
+msgid "To allow users to register for your website via Profile Builder, you first must enable user registration. Go to %1$sNetwork Settings%2$s, and under Registration Settings make sure to check “User accounts may be registered”. %3$sDismiss%4$s"
+msgstr "Om gebruikers toe te staan zich m.b.v. Profile Builder te registreren voor uw website, moet u eerst gebruikersregistratie inschakelen. Ga naar %1$sNetwerk Instellingen%2$s en vink onder Registratie Instellingen \"Gebruikersaccounts kunnen worden geregistreerd\" aan. %3$sSluiten%4$s"
+
+#: front-end/class-formbuilder.php:643
+msgid "User to edit:"
+msgstr "Te bewerken gebruiker:"
+
+#: front-end/default-fields/password/password.php:46 front-end/recover.php:254
+msgid "The password must have the minimum length of %s characters"
+msgstr "Het wachtwoord moet een minimumlengte hebben van %s karakters"
+
+#: front-end/default-fields/password/password.php:50 front-end/recover.php:258
+msgid "The password must have a minimum strength of %s"
+msgstr "Het wachtwoord moet een minimumsterkte hebben van %s"
+
+#: front-end/extra-fields/user-role/user-role.php:118
+msgid "You cannot register this user role"
+msgstr "U kunt deze gebruikersrol niet registreren"
+
+#: front-end/login.php:153
+msgid "username or email"
+msgstr "gebruikersnaam of e-mailadres"
+
+#: front-end/login.php:222
+msgid "Username or Email"
+msgstr "Gebruikersnaam of e-mailadres"
+
+#: front-end/logout.php:15
+msgid "You are currently logged in as %s. "
+msgstr "U bent ingelogd als %s."
+
+#: front-end/logout.php:15
+msgid "Log out &raquo;"
+msgstr "Uitloggen &raquo;"
+
+#: modules/custom-redirects/custom_redirects_admin.php:92
+#: modules/email-customizer/email-customizer.php:31
+msgid "User Role"
+msgstr "Gebruikersrol"
+
+#: modules/user-listing/userlisting.php:2100
+msgid "View all extra shortcode parameters"
+msgstr "Bekijk alle extra shortcode-parameters"
+
+#: modules/user-listing/userlisting.php:2114
+msgid "displays only the users that you specified the user_id for"
+msgstr "geeft alleen de gebruikers weer waarvoor u het user_id hebt gespecificeerd"
+
+#: modules/user-listing/userlisting.php:2120
+msgid "displays all users except the ones you specified the user_id for"
+msgstr "geeft alle gebruikers weer, behalve degenen waarvoor u het user_id hebt gespecificeerd"
+
+#: features/functions.php:566
+msgid "Minimum length of %d characters"
+msgstr "Minimum lengte %d tekens"
+
+#: front-end/class-formbuilder.php:135 front-end/class-formbuilder.php:138
+msgid "This message is only visible by administrators"
+msgstr "Dit bericht is alleen zichtbaar voor beheerders"
+
+#: modules/user-listing/userlisting.php:413
+msgid "User not found"
+msgstr "Gebruiker niet gevonden"
+
+#: modules/email-customizer/admin-email-customizer.php:38
+#: modules/email-customizer/user-email-customizer.php:38
+msgid "Valid tags {{reply_to}} and {{site_name}}"
+msgstr "Geldige tags {{reply_to}} en {{site_name}}"
+
+#: admin/admin-bar.php:48
+msgid "Choose which user roles view the admin bar in the front-end of the website."
+msgstr "Kies welke gebruikersrollen de beheerdersbalk in de front-end van de website te zien krijgen."
+
+#: admin/manage-fields.php:127
+msgid "Enter a comma separated list of values<br/>This can be anything, as it is hidden from the user, but should not contain special characters or apostrophes"
+msgstr "Voer een kommagescheiden lijst van waardes in<br/>Dit kan van alles zijn, omdat het verborgen is voor de gebruiker, maar mag geen speciale karakters of apostrofs bevatten"
+
+#: admin/manage-fields.php:1052
+msgid "The meta-name cannot be empty\n"
+msgstr "De meta-naam mag niet leeg zijn\n"
+
+#: admin/register-version.php:69
+msgid "Now that you acquired a copy of %s, you should take the time and register it with the serial number you received"
+msgstr "Nu u een exemplaar hebt van %s, moet u de tijd nemen om het te registreren met het serienummer dat u ontvangen hebt"
+
+#: admin/register-version.php:243
+msgid "<p>Your <strong>Profile Builder</strong> serial number is invalid or missing. <br/>Please %1$sregister your copy%2$s to receive access to automatic updates and support. Need a license key? %3$sPurchase one now%4$s</p>"
+msgstr "<p>Uw <strong>Profile Builder</strong> serienummer is ongeldig of ontbreekt. <br/> %1$sRegistreer uw exemplaar%2$s om toegang te krijgen tot automatische updates en ondersteuning. Licentiesleutel nodig? %3$sKoop er nu een%4$s</p>"
+
+#: assets/lib/wck-api/fields/country select.php:14
+#: assets/lib/wck-api/fields/cpt select.php:17
+#: assets/lib/wck-api/fields/select.php:14 assets/lib/wck-api/fields/user
+#: select.php:15 front-end/extra-fields/select-cpt/select-cpt.php:36
+#: front-end/extra-fields/select-cpt/select-cpt.php:60
+msgid "...Choose"
+msgstr "...Kies"
+
+#: features/class-list-table.php:526 features/class-list-table.php:942
+msgid "1 item"
+msgid_plural "%s items"
+msgstr[0] "1 item"
+msgstr[1] ""
+
+#: features/functions.php:552
+msgid "Very Weak"
+msgstr "Erg zwak"
+
+#: features/functions.php:640
+msgid "This field is required"
+msgstr "Dit veld is verplicht"
+
+#: features/functions.php:704
+msgid "Cancel"
+msgstr "Annuleren"
+
+#: features/functions.php:740
+msgid "To allow users to register for your website via Profile Builder, you first must enable user registration. Go to %1$sSettings -> General%2$s tab, and under Membership make sure to check “Anyone can register”. %3$sDismiss%4$s"
+msgstr "Om gebruikers toe te staan zich m.b.v. Profile Builder voor uw website te registreren, moet u eerst gebruikersregistratie inschakelen. Ga naar de %1$sInstellingen -> Algemeen%2$s en zorg ervoor dat u onder Lidmaatschap \"Iedereen kan registreren\" aangevinkt hebt. %3$sSluiten%4$s"
+
+#: front-end/login.php:144
+msgid "Invalid username."
+msgstr "Ongeldige gebruikersnaam."
+
+#: front-end/login.php:149 front-end/login.php:153
+msgid "username"
+msgstr "gebruikersnaam"
+
+#: front-end/login.php:149
+msgid "email"
+msgstr "e-mailadres"
+
+#: front-end/login.php:256
+msgid "Lost your password?"
+msgstr "Uw wachtwoord vergeten?"
+
+#: index.php:34
+msgid " is also activated. You need to deactivate it before activating this version of the plugin."
+msgstr "is ook geactiveerd. U moet deze deactiveren voordat u deze versie van de plugin activeert."
+
+#: modules/email-customizer/admin-email-customizer.php:54
+#: modules/email-customizer/user-email-customizer.php:54
+msgid "Must be a valid email address or the tag {{reply_to}} which defaults to the administrator email"
+msgstr "Moet een geldig e-mailadres zijn of de tag {{reply_to}} die standaard het e-mailadres van de beheerder geeft"
+
+#: features/email-confirmation/email-confirmation.php:573
+#: features/email-confirmation/email-confirmation.php:582
+#: modules/email-customizer/email-customizer.php:487
+#: modules/email-customizer/email-customizer.php:494
+#: modules/email-customizer/email-customizer.php:508
+msgid "Your selected password at signup"
+msgstr "Het door u geselecteerde wachtwoord tijdens registratie"
+
+#: modules/email-customizer/user-email-customizer.php:38
+msgid "These settings are also replicated in the \"Admin Email Customizer\" settings-page upon save."
+msgstr "Deze instellingen worden na het opslaan ook overgenomen in de 'Beheerders e-mail aanpassen' instellingenpagina."
+
+#: modules/multiple-forms/edit-profile-forms.php:274
+msgid "This form is empty."
+msgstr "Dit formulier is leeg."
+
+#: modules/multiple-forms/multiple-forms.php:406
+msgid "Delete all items"
+msgstr "Alle items verwijderen"
+
+#: modules/multiple-forms/multiple-forms.php:406
+msgid "Delete all"
+msgstr "Alles verwijderen"
+
+#: modules/user-listing/userlisting.php:1592
+msgid "Choose..."
+msgstr "Kies..."
+
+#: modules/user-listing/userlisting.php:2196
+msgid "Set the number of users to be displayed on every paginated part of the all-userlisting"
+msgstr "Stel het aantal gebruikers in dat getoond moet worden per pagina van de gebruikerslijst"
+
+#: admin/admin-bar.php:10
+msgid "Show/Hide the Admin Bar on the Front-End"
+msgstr "Toon/verberg de beheerdersbalk in de front-end"
+
+#: admin/admin-bar.php:10 admin/admin-bar.php:47
+msgid "Admin Bar Settings"
+msgstr "Instellingen beheerdersbalk"
+
+#: admin/admin-bar.php:57
+msgid "User-Role"
+msgstr "Gebruikersrol"
+
+#: admin/admin-bar.php:58
+msgid "Visibility"
+msgstr "Zichtbaarheid"
+
+#: admin/admin-bar.php:73 modules/multiple-forms/edit-profile-forms.php:206
+#: modules/multiple-forms/register-forms.php:230
+msgid "Default"
+msgstr "Standaard"
+
+#: admin/admin-bar.php:74
+msgid "Show"
+msgstr "Tonen"
+
+#: admin/admin-bar.php:75 modules/user-listing/userlisting.php:1537
+msgid "Hide"
+msgstr "Verbergen"
+
+#: admin/admin-bar.php:86 admin/general-settings.php:208
+#: admin/register-version.php:95 features/functions.php:697
+#: modules/modules.php:127
+msgid "Save Changes"
+msgstr "Wijzigingen opslaan"
+
+#: admin/admin-functions.php:37
+msgid "Login is set to be done using the E-mail. This field will NOT appear in the front-end! ( you can change these settings under the \"%s\" tab )"
+msgstr "U moet inloggen met het e-mailadres. Dit veld is NIET zichtbaar op de front-end! (u kunt deze instellingen wijzigen op het tabblad \"%s\")"
+
+#: admin/admin-functions.php:37 admin/general-settings.php:10
+#: admin/general-settings.php:38
+msgid "General Settings"
+msgstr "Algemene Instellingen"
+
+#: admin/admin-functions.php:137 admin/general-settings.php:194
+msgid "Very weak"
+msgstr "Zeer zwak"
+
+#: admin/admin-functions.php:137 admin/general-settings.php:195
+#: features/functions.php:552
+msgid "Weak"
+msgstr "Zwak"
+
+#: admin/admin-functions.php:137 admin/general-settings.php:196
+#: features/functions.php:552
+msgid "Medium"
+msgstr "Gemiddeld"
+
+#: admin/admin-functions.php:137 admin/general-settings.php:197
+#: features/functions.php:552
+msgid "Strong"
+msgstr "Sterk"
+
+#: admin/admin-functions.php:187
+msgid "Add Field"
+msgstr "Veld toevoegen"
+
+#: admin/admin-functions.php:189
+#: modules/class-mustache-templates/class-mustache-templates.php:390
+msgid "Save Settings"
+msgstr "Instellingen opslaan"
+
+#: admin/basic-info.php:10
+msgid "Basic Information"
+msgstr "Basisinformatie"
+
+#: admin/basic-info.php:29
+msgid "Version %s"
+msgstr "Versie %s"
+
+#: admin/basic-info.php:30
+msgid "<strong>Profile Builder </strong>"
+msgstr "<strong>Profile Builder </strong>"
+
+#: admin/basic-info.php:31
+msgid "The best way to add front-end registration, edit profile and login forms."
+msgstr "De beste manier om frond-end-registratie, profielbewerking en inlogformulieren toe te voegen."
+
+#: admin/basic-info.php:33
+msgid "For Modern User Interaction"
+msgstr "Voor moderne gebruikersinteractie"
+
+#: admin/basic-info.php:36 features/login-widget/login-widget.php:59
+msgid "Login"
+msgstr "Inloggen"
+
+#: admin/basic-info.php:40
+msgid "Registration"
+msgstr "Registratie"
+
+#: admin/basic-info.php:44
+msgid "Edit Profile"
+msgstr "Profiel bewerken"
+
+#: admin/basic-info.php:51
+msgid "Extra Features"
+msgstr "Extra functies"
+
+#: admin/basic-info.php:52
+msgid "Features that give you more control over your users, increased security and help you fight user registration spam."
+msgstr "Functies die u meer controle geven over uw gebruikers, de veiligheid verhogen en u helpen tegen spam tijdens gebruikersregistratie."
+
+#: admin/basic-info.php:53
+msgid "Enable extra features"
+msgstr "Extra functies inschakelen"
+
+#: admin/basic-info.php:57
+msgid "Recover Password"
+msgstr "Wachtwoord herstellen"
+
+#: admin/basic-info.php:61
+msgid "Admin Approval (*)"
+msgstr "Goedkeuring beheerder (*)"
+
+#: admin/basic-info.php:62
+msgid "You decide who is a user on your website. Get notified via email or approve multiple users at once from the WordPress UI."
+msgstr "U bepaalt wie er gebruiker is op uw website. Ontvang meldingen via e-mail of keur meerdere gebruikers in één keer goed vanaf de WordPress-UI."
+
+#: admin/basic-info.php:65
+msgid "Email Confirmation"
+msgstr "E-mailbevestiging"
+
+#: admin/basic-info.php:66
+msgid "Make sure users sign up with genuine emails. On registration users will receive a notification to confirm their email address."
+msgstr "Wees er zeker van dat gebruikers zich met echte e-mailadressen aanmelden. Tijdens registratie zullen gebruikers een bericht ontvangen om hun e-mailadres te bevestigen."
+
+#: admin/basic-info.php:69
+msgid "Minimum Password Length and Strength Meter"
+msgstr "Minimale Wachtwoordlengte- en Sterktemeter"
+
+#: admin/basic-info.php:70
+msgid "Eliminate weak passwords altogether by setting a minimum password length and enforcing a certain password strength."
+msgstr "Elimineer zwakke wachtwoorden meteen door een minimum wachtwoordlengte in te stellen en een bepaalde wachtwoordsterkte af te dwingen."
+
+#: admin/basic-info.php:73
+msgid "Login with Email or Username"
+msgstr "Inloggen met e-mailadres of gebruikersnaam"
+
+#: admin/basic-info.php:74
+msgid "Allow users to log in with their email or username when accessing your site."
+msgstr "Sta gebruikers toe in te loggen met e-mailadres of gebruikersnaam als ze uw website bezoeken."
+
+#: admin/basic-info.php:87
+msgid "Customize Your Forms The Way You Want (*)"
+msgstr "Pas de formulieren aan naar uw wens (*)"
+
+#: admin/basic-info.php:88
+msgid "With Extra Profile Fields you can create the exact registration form your project needs."
+msgstr "Met extra profielvelden kunt u het registratieformulier creëren dat precies voldoet aan de behoefte van uw project."
+
+#: admin/basic-info.php:90
+msgid "Extra Profile Fields are available in Hobbyist or PRO versions"
+msgstr "Extra profielvelden zijn beschikbaar in Hobbyist- of Pro-versies"
+
+#: admin/basic-info.php:92
+msgid "Get started with extra fields"
+msgstr "Beginnen met extra velden"
+
+#: admin/basic-info.php:95
+msgid "Avatar Upload"
+msgstr "Avatar upload"
+
+#: admin/basic-info.php:96
+msgid "Generic Uploads"
+msgstr "Algemene uploads"
+
+#: admin/basic-info.php:97
+msgid "Agree To Terms Checkbox"
+msgstr "Akkoord met voorwaarden Selectievakje"
+
+#: admin/basic-info.php:98
+msgid "Datepicker"
+msgstr "Datumkiezer"
+
+#: admin/basic-info.php:101
+msgid "reCAPTCHA"
+msgstr "reCAPTCHA"
+
+#: admin/basic-info.php:102
+msgid "Country Select"
+msgstr "Landselectie"
+
+#: admin/basic-info.php:104
+msgid "Timezone Select"
+msgstr "Tijdzoneselectie"
+
+#: admin/basic-info.php:108
+msgid "Input / Hidden Input"
+msgstr "Invoer / Afgeschermde invoer"
+
+#: admin/basic-info.php:110
+msgid "Checkbox"
+msgstr "Selectievakje"
+
+#: admin/basic-info.php:111
+msgid "Select"
+msgstr "Selecteren"
+
+#: admin/basic-info.php:112
+msgid "Radio Buttons"
+msgstr "Keuzerondjes"
+
+#: admin/basic-info.php:113
+msgid "Textarea"
+msgstr "Tekstgebied"
+
+#: admin/basic-info.php:125
+msgid "Powerful Modules (**)"
+msgstr "Krachtige modules (**)"
+
+#: admin/basic-info.php:126
+msgid "Everything you will need to manage your users is probably already available using the Pro Modules."
+msgstr "Alles wat u nodig hebt om uw gebruikers te beheren is waarschijnlijk al beschikbaar bij gebruik van de Pro-modules."
+
+#: admin/basic-info.php:128
+msgid "Enable your modules"
+msgstr "Uw modules inschakelen"
+
+#: admin/basic-info.php:131
+msgid "Find out more about PRO Modules"
+msgstr "Leer meer over de Pro-modules"
+
+#: admin/basic-info.php:136 modules/modules.php:89
+#: modules/user-listing/userlisting.php:11
+#: modules/user-listing/userlisting.php:12
+#: modules/user-listing/userlisting.php:17
+#: modules/user-listing/userlisting.php:23
+msgid "User Listing"
+msgstr "Gebruikerslijsten"
+
+#: admin/basic-info.php:138
+msgid "Easy to edit templates for listing your website users as well as creating single user pages. Shortcode based, offering many options to customize your listings."
+msgstr "Eenvoudig te bewerken sjablonen voor gebruikerslijsten en gebruikerspagina's. Op shortcode gebaseerd en met vele opties om de overzichten aan te passen."
+
+#: admin/basic-info.php:144
+msgid "Email Customizer"
+msgstr "E-mail aanpassen"
+
+#: admin/basic-info.php:145
+msgid "Personalize all emails sent to your users or admins. On registration, email confirmation, admin approval / un-approval."
+msgstr "Personaliseer alle e-mail die naar de gebruikers of beheerders wordt gestuurd. Na registratie, e-mailbevestiging, goedkeuring/afkeuring."
+
+#: admin/basic-info.php:148
+#: modules/custom-redirects/custom_redirects_admin.php:32
+#: modules/custom-redirects/custom_redirects_admin.php:33
+#: modules/modules.php:110
+msgid "Custom Redirects"
+msgstr "Aangepaste doorverwijzingen"
+
+#: admin/basic-info.php:149
+msgid "Keep your users out of the WordPress dashboard, redirect them to the front-page after login or registration, everything is just a few clicks away."
+msgstr "Houd uw gebruikers weg van het WordPress-dashboard, stuur hen door naar de startpagina na inloggen of registratie, alles vereist maar een paar muisklikken."
+
+#: admin/basic-info.php:154 modules/modules.php:75
+msgid "Multiple Registration Forms"
+msgstr "Meerdere registratieformulieren"
+
+#: admin/basic-info.php:155
+msgid "Set up multiple registration forms with different fields for certain user roles. Capture different information from different types of users."
+msgstr "Maak meerdere registratieformulieren met verschillende velden voor bepaalde gebruikersrollen. Gebruik verschillende informatie voor verschillende gebruikerstypen."
+
+#: admin/basic-info.php:158 modules/modules.php:82
+msgid "Multiple Edit-profile Forms"
+msgstr "Meerdere formulieren voor profielbewerking"
+
+#: admin/basic-info.php:159
+msgid "Allow different user roles to edit their specific information. Set up multiple edit-profile forms with different fields for certain user roles."
+msgstr "Sta verschillende gebruikersgroepen toe hun specifieke informatie te bewerken. Maak meerdere formulieren voor profielbewerking aan met verschillende velden voor bepaalde gebruikersrollen."
+
+#: admin/basic-info.php:187
+msgid " * only available in the %1$sHobbyist and Pro versions%2$s."
+msgstr "* alleen beschikbaar in de %1$sHobbyist- en Pro-versie%2$s."
+
+#: admin/basic-info.php:188
+msgid "** only available in the %1$sPro version%2$s."
+msgstr "** alleen beschikbaar in de %1$sPro-versie%2$s."
+
+#: admin/general-settings.php:42
+msgid "Load Profile Builder's own CSS file in the front-end:"
+msgstr "Laad het eigen CSS-bestand van Profile Builder in de front-end:"
+
+#: admin/general-settings.php:45 admin/general-settings.php:58
+#: admin/general-settings.php:107
+#: modules/multiple-forms/edit-profile-forms.php:206
+#: modules/multiple-forms/register-forms.php:229
+#: modules/multiple-forms/register-forms.php:230
+#: modules/user-listing/userlisting.php:2201
+msgid "Yes"
+msgstr "Ja"
+
+#: admin/general-settings.php:47
+msgid "You can find the default file here: %1$s"
+msgstr "U kunt het standaardbestand hier vinden: %1$s"
+
+#: admin/general-settings.php:54
+msgid "\"Email Confirmation\" Activated:"
+msgstr "\"E-mailbevestiging\" geactiveerd:"
+
+#: admin/general-settings.php:59 admin/general-settings.php:108
+#: modules/multiple-forms/edit-profile-forms.php:206
+#: modules/multiple-forms/register-forms.php:229
+#: modules/multiple-forms/register-forms.php:230
+msgid "No"
+msgstr "Nee"
+
+#: admin/general-settings.php:64
+msgid "You can find a list of unconfirmed email addresses %1$sUsers > All Users > Email Confirmation%2$s."
+msgstr "U kunt een lijst met niet bevestigde e-mailadressen vinden in %1$sGebruikers > Alle Gebruikers > E-mailbevestiging%2$s."
+
+#: admin/general-settings.php:72
+msgid "\"Email Confirmation\" Landing Page:"
+msgstr "\"E-mailbevestiging\" startpagina:"
+
+#: admin/general-settings.php:77
+msgid "Existing Pages"
+msgstr "Bestaande pagina's"
+
+#: admin/general-settings.php:92
+msgid "Specify the page where the users will be directed when confirming the email account. This page can differ from the register page(s) and can be changed at any time. If none selected, a simple confirmation page will be displayed for the user."
+msgstr "Specificeer de pagina waar gebruikers naar worden doorgestuurd als ze hun e-mail bevestigen. Dit kan een andere pagina zijn dan de registratiepagina(s), en kan altijd gewijzigd worden. Als er niets geselecteerd is, zal er een eenvoudige bevestigingspagina aan gebruiker getoond worden."
+
+#: admin/general-settings.php:103
+msgid "\"Admin Approval\" Activated:"
+msgstr "\"Goedkeuring beheerder\" geactiveerd:"
+
+#: admin/general-settings.php:111
+msgid "You can find a list of users at %1$sUsers > All Users > Admin Approval%2$s."
+msgstr "U kunt een gebruikerslijst vinden bij %1$sGebruikers > Alle Gebruikers > Goedkeuring beheerder%2$s."
+
+#: admin/general-settings.php:149
+msgid "\"Admin Approval\" Feature:"
+msgstr "\"Goedkeuring beheerder\" functie:"
+
+#: admin/general-settings.php:152
+msgid "You decide who is a user on your website. Get notified via email or approve multiple users at once from the WordPress UI. Enable Admin Approval by upgrading to %1$sHobbyist or PRO versions%2$s."
+msgstr "U bepaalt wie gebruiker is op uw website. Ontvang een melding via e-mail of keur meerdere gebruikers in één keer goed via de WordPress UI. Zet 'Goedkeuring beheerder' aan door te upgraden naar de %1$sHobbyist- of Pro-versie%2$s."
+
+#: admin/general-settings.php:159
+msgid "Allow Users to Log in With:"
+msgstr "Sta gebruikers toe in te loggen met:"
+
+#: admin/general-settings.php:164 admin/manage-fields.php:198
+#: features/admin-approval/class-admin-approval.php:166
+#: features/email-confirmation/class-email-confirmation.php:167
+#: front-end/login.php:85 front-end/login.php:99 front-end/login.php:218
+#: modules/custom-redirects/custom_redirects_admin.php:56
+#: modules/email-customizer/email-customizer.php:28
+#: modules/user-listing/userlisting.php:102
+#: modules/user-listing/userlisting.php:277
+#: modules/user-listing/userlisting.php:730
+#: modules/user-listing/userlisting.php:2152
+msgid "Username"
+msgstr "Gebruikersnaam"
+
+#: admin/general-settings.php:165 front-end/login.php:215
+#: modules/email-customizer/email-customizer.php:29
+#: modules/user-listing/userlisting.php:736
+#: modules/user-listing/userlisting.php:2153
+msgid "Email"
+msgstr "E-mailadres"
+
+#: admin/general-settings.php:177
+msgid "Minimum Password Length:"
+msgstr "Minimale Wachtwoordlengte:"
+
+#: admin/general-settings.php:182
+msgid "Enter the minimum characters the password should have. Leave empty for no minimum limit"
+msgstr "Voer het minimaal aantal karakters in die het wachtwoord moet hebben. Laat leeg voor geen minimaal limiet."
+
+#: admin/general-settings.php:189
+msgid "Minimum Password Strength:"
+msgstr "Minimale Wachtwoordsterkte:"
+
+#: admin/general-settings.php:193
+msgid "Disabled"
+msgstr "Uitgeschakeld"
+
+#: admin/manage-fields.php:12
+msgid "Manage Fields"
+msgstr "Velden beheren"
+
+#: admin/manage-fields.php:13
+msgid "Manage Default and Extra Fields"
+msgstr "Standaard- en extra velden beheren"
+
+#: admin/manage-fields.php:116
+msgid "Field Title"
+msgstr "Veldtitel"
+
+#: admin/manage-fields.php:116
+msgid "Title of the field"
+msgstr "Titel van het veld"
+
+#: admin/manage-fields.php:117
+#: modules/multiple-forms/edit-profile-forms.php:245
+#: modules/multiple-forms/register-forms.php:266
+msgid "Field"
+msgstr "Veld"
+
+#: admin/manage-fields.php:118
+msgid "Meta-name"
+msgstr "Meta-naam"
+
+#: admin/manage-fields.php:119
+#: modules/custom-redirects/custom_redirects_admin.php:65
+#: modules/custom-redirects/custom_redirects_admin.php:95
+#: modules/custom-redirects/custom_redirects_admin.php:114
+#: modules/custom-redirects/custom_redirects_admin.php:139
+#: modules/multiple-forms/edit-profile-forms.php:246
+#: modules/multiple-forms/register-forms.php:267
+msgid "ID"
+msgstr "ID"
+
+#: admin/manage-fields.php:119
+#: modules/multiple-forms/edit-profile-forms.php:246
+#: modules/multiple-forms/register-forms.php:267
+msgid "A unique, auto-generated ID for this particular field<br/>You can use this in conjuction with filters to target this element if needed<br/>Can't be edited"
+msgstr "Een uniek, automatisch aangemaakt ID voor dit bepaalde veld<br/>U kunt dit gebruiken in combinatie met filters om dit element indien nodig aan te pakken<br/>Kan niet bewerkt worden"
+
+#: admin/manage-fields.php:120
+msgid "Description"
+msgstr "Beschrijving"
+
+#: admin/manage-fields.php:120
+msgid "Enter a (detailed) description of the option for end users to read<br/>Optional"
+msgstr "Voer een (gedetailleerde) beschrijving in van de optie, zodat gebruikers die kunnen lezen<br/>Optioneel"
+
+#: admin/manage-fields.php:121
+msgid "Row Count"
+msgstr "Rij-telling"
+
+#: admin/manage-fields.php:121
+msgid "Specify the number of rows for a 'Textarea' field<br/>If not specified, defaults to 5"
+msgstr "Specificeer het aantal rijen voor een 'Tekstgebied'-veld<br/>Is standaard 5, indien niet gespecificeerd."
+
+#: admin/manage-fields.php:122
+msgid "Allowed Image Extensions"
+msgstr "Toegestane afbeeldingsextensies"
+
+#: admin/manage-fields.php:123
+msgid "Allowed Upload Extensions"
+msgstr "Toegestane uploadextensies"
+
+#: admin/manage-fields.php:124
+msgid "Avatar Size"
+msgstr "Avatargrootte"
+
+#: admin/manage-fields.php:124
+msgid "Enter a value (between 20 and 200) for the size of the 'Avatar'<br/>If not specified, defaults to 100"
+msgstr "Voer een waarde in (tussen 20 en 200) voor de grootte van de 'Avatar'<br/>Is standaard 100, indien niet gespecificeerd."
+
+#: admin/manage-fields.php:125
+msgid "Date-format"
+msgstr "Datum-formaat"
+
+#: admin/manage-fields.php:126
+msgid "Terms of Agreement"
+msgstr "Algemene voorwaarden"
+
+#: admin/manage-fields.php:126
+msgid "Enter a detailed description of the temrs of agreement for the user to read.<br/>Links can be inserted by using standard HTML syntax: &lt;a href=\"custom_url\"&gt;custom_text&lt;/a&gt;"
+msgstr "Voer een (gedetailleerde) beschrijving in van de algemene voorwaarden, die gebruikers kunnen lezen.<br/>Links kunnen ingevoerd worden mbv standaard HTML-syntax: &lt;a href=\"custom_url\"&gt;custom_text&lt;/a&gt;"
+
+#: admin/manage-fields.php:127
+msgid "Options"
+msgstr "Opties"
+
+#: admin/manage-fields.php:128
+msgid "Labels"
+msgstr "Labels"
+
+#: admin/manage-fields.php:128
+msgid "Enter a comma separated list of labels<br/>Visible for the user"
+msgstr "Voer een kommagescheiden lijst van labels in<br/>Zichtbaar voor de gebruiker"
+
+#: admin/manage-fields.php:135
+msgid "Default Value"
+msgstr "Standaardwaarde"
+
+#: admin/manage-fields.php:135
+msgid "Default value of the field"
+msgstr "Standaardwaarde van het veld"
+
+#: admin/manage-fields.php:136 admin/manage-fields.php:138
+#: admin/manage-fields.php:139 admin/manage-fields.php:140
+msgid "Default Option"
+msgstr "Standaardoptie"
+
+#: admin/manage-fields.php:136
+msgid "Specify the option which should be selected by default"
+msgstr "Specificeer de optie die standaard geselecteerd moet worden"
+
+#: admin/manage-fields.php:137
+msgid "Default Option(s)"
+msgstr "Standaardoptie(s)"
+
+#: admin/manage-fields.php:137
+msgid "Specify the option which should be checked by default<br/>If there are multiple values, separate them with a ',' (comma)"
+msgstr "Specificeer de optie die standaard geselecteerd moet worden.<br/>Als er meerdere waardes zijn, scheid ze dan met een ',' (komma)"
+
+#: admin/manage-fields.php:151
+msgid "Default Content"
+msgstr "Standaard Inhoud"
+
+#: admin/manage-fields.php:151
+msgid "Default value of the textarea"
+msgstr "Standaardwaarde van het tekstgebied"
+
+#: admin/manage-fields.php:158
+msgid "Required"
+msgstr "Verplicht"
+
+#: admin/manage-fields.php:158
+msgid "Whether the field is required or not"
+msgstr "Of een veld verplicht is of niet"
+
+#: admin/manage-fields.php:159
+msgid "Overwrite Existing"
+msgstr "Overschrijf bestaande"
+
+#: admin/manage-fields.php:159
+msgid "Selecting 'Yes' will add the field to the list, but will overwrite any other field in the database that has the same meta-name<br/>Use this at your own risk"
+msgstr "Als u 'Ja' selecteert zal het veld aan de lijst toegevoegd worden, maar het zal alle andere velden in database overschrijven die dezelfde meta-naam hebben<br/>Gebruik dit op eigen risico"
+
+#: admin/manage-fields.php:165
+msgid "Field Properties"
+msgstr "Veldeigenschappen"
+
+#: admin/manage-fields.php:178
+msgid "Registration & Edit Profile"
+msgstr "Registratie & profiel bewerken"
+
+#: admin/manage-fields.php:197
+msgid "Name"
+msgstr "Naam"
+
+#: admin/manage-fields.php:198
+msgid "Usernames cannot be changed."
+msgstr "Gebruikersnamen kunnen niet veranderd worden."
+
+#: admin/manage-fields.php:199
+msgid "First Name"
+msgstr "Voornaam"
+
+#: admin/manage-fields.php:200
+msgid "Last Name"
+msgstr "Achternaam"
+
+#: admin/manage-fields.php:201 modules/user-listing/userlisting.php:769
+#: modules/user-listing/userlisting.php:2160
+msgid "Nickname"
+msgstr "Schermnaam"
+
+#: admin/manage-fields.php:202
+msgid "Display name publicly as"
+msgstr "Toon de naam publiek als"
+
+#: admin/manage-fields.php:203
+msgid "Contact Info"
+msgstr "Contactinformatie"
+
+#: admin/manage-fields.php:204
+#: features/admin-approval/class-admin-approval.php:169
+#: features/email-confirmation/class-email-confirmation.php:168
+#: modules/user-listing/userlisting.php:108
+msgid "E-mail"
+msgstr "E-mailadres"
+
+#: admin/manage-fields.php:205 modules/email-customizer/email-customizer.php:32
+#: modules/user-listing/userlisting.php:111
+#: modules/user-listing/userlisting.php:751
+#: modules/user-listing/userlisting.php:2154
+msgid "Website"
+msgstr "Website"
+
+#: admin/manage-fields.php:209
+msgid "AIM"
+msgstr "AIM"
+
+#: admin/manage-fields.php:210
+msgid "Yahoo IM"
+msgstr "Yahoo IM"
+
+#: admin/manage-fields.php:211
+msgid "Jabber / Google Talk"
+msgstr "Jabber/Google Talk"
+
+#: admin/manage-fields.php:214
+msgid "About Yourself"
+msgstr "Over uzelf"
+
+#: admin/manage-fields.php:215 modules/user-listing/userlisting.php:114
+#: modules/user-listing/userlisting.php:754
+#: modules/user-listing/userlisting.php:2155
+msgid "Biographical Info"
+msgstr "Biografische informatie"
+
+#: admin/manage-fields.php:215
+msgid "Share a little biographical information to fill out your profile. This may be shown publicly."
+msgstr "Vertel iets over uzelf om uw profiel aan te vullen. Dit kan voor iedereen zichtbaar zijn."
+
+#: admin/manage-fields.php:216 front-end/recover.php:73
+#: modules/email-customizer/email-customizer.php:30
+msgid "Password"
+msgstr "Wachtwoord"
+
+#: admin/manage-fields.php:216
+msgid "Type your password."
+msgstr "Voer uw wachtwoord in."
+
+#: admin/manage-fields.php:217 front-end/recover.php:74
+msgid "Repeat Password"
+msgstr "Herhaal het wachtwoord"
+
+#: admin/manage-fields.php:217
+msgid "Type your password again. "
+msgstr "Voer uw wachtwoord opnieuw in. "
+
+#: admin/manage-fields.php:977 admin/manage-fields.php:1134
+msgid "You must select a field\n"
+msgstr "U moet een veld selecteren\n"
+
+#: admin/manage-fields.php:987
+msgid "Please choose a different field type as this one already exists in your form (must be unique)\n"
+msgstr "Selecteer a.u.b. een ander veldtype omdat dit al in uw formulier staat (het moet uniek zijn)\n"
+
+#: admin/manage-fields.php:998
+msgid "The entered avatar size is not between 20 and 200\n"
+msgstr "De ingevoerde avatargrootte ligt niet tussen 20 en 200\n"
+
+#: admin/manage-fields.php:1001
+msgid "The entered avatar size is not numerical\n"
+msgstr "De ingevoerde avatargrootte is niet numeriek\n"
+
+#: admin/manage-fields.php:1009
+msgid "The entered row number is not numerical\n"
+msgstr "Het ingevoerde rijnummer is niet numeriek\n"
+
+#: admin/manage-fields.php:1012
+msgid "You must enter a value for the row number\n"
+msgstr "U moet een waarde invoeren voor het rijnummer\n"
+
+#: admin/manage-fields.php:1033
+msgid "The entered value for the Datepicker is not a valid date-format\n"
+msgstr "De ingevoerde waarde voor de datumkiezer heeft geen geldig datumformaat\n"
+
+#: admin/manage-fields.php:1036
+msgid "You must enter a value for the date-format\n"
+msgstr "U moet een waarde voor het datumformaat invoeren\n"
+
+#: admin/manage-fields.php:1064 admin/manage-fields.php:1072
+#: admin/manage-fields.php:1083
+msgid "That meta-name is already in use\n"
+msgstr "Deze meta-naam is al in gebruik\n"
+
+#: admin/manage-fields.php:1114
+msgid "The following option(s) did not coincide with the ones in the options list: %s\n"
+msgstr "De volgende optie(s) komen niet overeen met de opties in de optielijst: %s\n"
+
+#: admin/manage-fields.php:1118
+msgid "The following option did not coincide with the ones in the options list: %s\n"
+msgstr "De volgende optie(s) komen niet overeen met de opties in de optielijst: %s \n"
+
+#: admin/manage-fields.php:1141
+msgid "That field is already added in this form\n"
+msgstr "Dat veld is al aan dit formulier toegevoegd\n"
+
+#: admin/manage-fields.php:1190
+msgid "<pre>Title</pre><pre>Type</pre><pre>Meta Name</pre><pre class=\"wppb-mb-head-required\">Required</pre>"
+msgstr "<pre>Titel</pre><pre>Type</pre><pre>Metanaam</pre><pre class=\"wppb-mb-head-required\">Verplicht</pre>"
+
+#: admin/manage-fields.php:1190
+#: assets/lib/wck-api/wordpress-creation-kit.php:438
+#: assets/lib/wck-api/wordpress-creation-kit.php:535
+#: features/admin-approval/class-admin-approval.php:108
+#: features/functions.php:718 features/functions.php:725
+#: modules/custom-redirects/custom_redirects_admin.php:179
+#: modules/custom-redirects/custom_redirects_admin.php:193
+#: modules/custom-redirects/custom_redirects_admin.php:207
+#: modules/custom-redirects/custom_redirects_admin.php:221
+#: modules/multiple-forms/multiple-forms.php:406
+msgid "Edit"
+msgstr "Bewerken"
+
+#: admin/manage-fields.php:1190
+#: assets/lib/wck-api/wordpress-creation-kit.php:438
+#: assets/lib/wck-api/wordpress-creation-kit.php:536
+#: features/admin-approval/class-admin-approval.php:113
+#: features/admin-approval/class-admin-approval.php:224
+#: features/email-confirmation/class-email-confirmation.php:120
+#: features/email-confirmation/class-email-confirmation.php:217
+#: features/functions.php:711 features/functions.php:725
+#: modules/custom-redirects/custom_redirects_admin.php:179
+#: modules/custom-redirects/custom_redirects_admin.php:193
+#: modules/custom-redirects/custom_redirects_admin.php:207
+#: modules/custom-redirects/custom_redirects_admin.php:221
+msgid "Delete"
+msgstr "Verwijderen"
+
+#: admin/manage-fields.php:1205
+msgid "Use these shortcodes on the pages you want the forms to be displayed:"
+msgstr "Gebruik deze shortcodes op de pagina's waarop u de formulieren wilt tonen:"
+
+#: admin/register-version.php:14
+msgid "Register Your Version"
+msgstr "Registreer uw versie"
+
+#: admin/register-version.php:14
+msgid "Register Version"
+msgstr "Versie registreren"
+
+#: admin/register-version.php:70
+msgid "If you register this version of Profile Builder, you'll receive information regarding upgrades, patches, and technical support."
+msgstr "Als u deze versie van Profile Builder registreert, zult u informatie ontvangen inzake updates, patches en technische support."
+
+#: admin/register-version.php:72
+msgid " Serial Number:"
+msgstr "Serienummer:"
+
+#: admin/register-version.php:77
+msgid "The serial number was successfully validated!"
+msgstr "Het serienummer is met succes gevalideerd!"
+
+#: admin/register-version.php:79
+msgid "The serial number entered couldn't be validated!"
+msgstr "Het ingevoerde serienummer kon niet gevalideerd worden!"
+
+#: admin/register-version.php:83
+msgid "The serial number couldn't be validated because it expired!"
+msgstr "Het serienummer kon niet gevalideerd worden want het is verlopen!"
+
+#: admin/register-version.php:85
+msgid "The serial number couldn't be validated because process timed out. This is possible due to the server being down. Please try again later!"
+msgstr "Het serienummer kon niet gevalideerd worden omdat het proces te lang duurde. Dit komt mogelijk doordat de server niet werkt. Probeer het later opnieuw!"
+
+#: admin/register-version.php:87
+msgid "(e.g. RMPB-15-SN-253a55baa4fbe7bf595b2aabb8d72985)"
+msgstr "(v.b. RMPB-15-SN-253a55baa4fbe7bf595b2aabb8d72985)"
+
+#: assets/lib/wck-api/wordpress-creation-kit.php:438 features/functions.php:725
+msgid "Content"
+msgstr "Inhoud"
+
+#: assets/lib/wck-api/wordpress-creation-kit.php:535
+msgid "Edit this item"
+msgstr "Dit item bewerken"
+
+#: assets/lib/wck-api/wordpress-creation-kit.php:536
+msgid "Delete this item"
+msgstr "Dit item verwijderen"
+
+#: assets/lib/wck-api/wordpress-creation-kit.php:705
+msgid "Please enter a value for the required field "
+msgstr "Voer een waarde in voor het verplichte veld"
+
+#: front-end/extra-fields/upload/upload.php:122
+msgid "Select File"
+msgstr "Selecteer Bestand"
+
+#: assets/lib/wck-api/fields/upload.php:43
+#: front-end/extra-fields/upload/upload.php:112
+msgid "Remove"
+msgstr "Verwijderen"
+
+#: assets/lib/wck-api/fields/nested repeater.php:8
+msgid "You can add the information for the %s after you add a entry"
+msgstr "U kunt informatie toevoegen aan %s nadat u een item hebt toegevoegd"
+
+#: assets/lib/wck-api/fields/upload.php:75
+#: front-end/extra-fields/upload/upload.php:128
+msgid "Upload "
+msgstr "Uploaden"
+
+#: features/class-list-table.php:184
+msgid "No items found."
+msgstr "Geen items gevonden."
+
+#: features/class-list-table.php:308
+msgid "Bulk Actions"
+msgstr "Bulkacties"
+
+#: features/class-list-table.php:318
+msgid "Apply"
+msgstr "Toepassen"
+
+#: features/class-list-table.php:402
+msgid "Show all dates"
+msgstr "Alle data tonen"
+
+#: features/class-list-table.php:415
+msgid "%1$s %2$d"
+msgstr "%1$s %2$d"
+
+#: features/class-list-table.php:431
+msgid "List View"
+msgstr "Lijstweergave"
+
+#: features/class-list-table.php:432
+msgid "Excerpt View"
+msgstr "Samenvatting Weergave"
+
+#: features/class-list-table.php:458
+msgid "%s pending"
+msgstr "%s in afwachting"
+
+#: features/class-list-table.php:566
+msgid "%1$s of %2$s"
+msgstr "%1$s van %2$s"
+
+#: features/class-list-table.php:713
+msgid "Select All"
+msgstr "Alles selecteren"
+
+#: features/functions.php:526
+msgid "Strength indicator"
+msgstr "Sterkte-indicator"
+
+#: features/admin-approval/admin-approval.php:14
+#: features/admin-approval/class-admin-approval.php:453
+msgid "Admin Approval"
+msgstr "Goedkeuring beheerder"
+
+#: features/admin-approval/admin-approval.php:28
+#: features/email-confirmation/email-confirmation.php:58
+msgid "Do you want to"
+msgstr "Wilt u"
+
+#: features/admin-approval/admin-approval.php:51
+msgid "Your session has expired! Please refresh the page and try again"
+msgstr "Uw sessie is verlopen! Ververs de pagina en probeer het opnieuw"
+
+#: features/admin-approval/admin-approval.php:64
+msgid "User successfully approved!"
+msgstr "Gebruiker goedgekeurd!"
+
+#: features/admin-approval/admin-approval.php:74
+msgid "User successfully unapproved!"
+msgstr "Gebruiker afgekeurd!"
+
+#: features/admin-approval/admin-approval.php:80
+msgid "User successfully deleted!"
+msgstr "Gebruiker verwijderd!"
+
+#: features/admin-approval/admin-approval.php:85
+#: features/admin-approval/admin-approval.php:129
+#: features/email-confirmation/email-confirmation.php:132
+msgid "You either don't have permission for that action or there was an error!"
+msgstr "U hebt of niet de rechten voor deze actie of is een fout opgetreden!"
+
+#: features/admin-approval/admin-approval.php:96
+msgid "Your session has expired! Please refresh the page and try again."
+msgstr "Uw sessie is verlopen! Ververs de pagina en probeer het opnieuw."
+
+#: features/admin-approval/admin-approval.php:108
+msgid "Users successfully approved!"
+msgstr "Gebruikers goedgekeurd!"
+
+#: features/admin-approval/admin-approval.php:117
+msgid "Users successfully unapproved!"
+msgstr "Gebruikers afgekeurd!"
+
+#: features/admin-approval/admin-approval.php:125
+msgid "Users successfully deleted!"
+msgstr "Gebruikers verwijderd!"
+
+#: features/admin-approval/admin-approval.php:145
+msgid "Your account on %1$s has been approved!"
+msgstr "Uw account op %1$s is goedgekeurd!"
+
+#: features/admin-approval/admin-approval.php:146
+#: features/admin-approval/admin-approval.php:149
+msgid "approved"
+msgstr "goedgekeurd"
+
+#: features/admin-approval/admin-approval.php:148
+msgid "An administrator has just approved your account on %1$s (%2$s)."
+msgstr "Een beheerder heeft zojuist uw account goedgekeurd op %1$s (%2$s)."
+
+#: features/admin-approval/admin-approval.php:153
+msgid "Your account on %1$s has been unapproved!"
+msgstr "Uw account op %1$s is afgekeurd!"
+
+#: features/admin-approval/admin-approval.php:154
+#: features/admin-approval/admin-approval.php:157
+msgid "unapproved"
+msgstr "afgekeurd"
+
+#: features/admin-approval/admin-approval.php:156
+msgid "An administrator has just unapproved your account on %1$s (%2$s)."
+msgstr "Een beheerder heeft zojuist uw account afgekeurd op %1$s (%2$s)."
+
+#: features/admin-approval/admin-approval.php:175
+msgid "<strong>ERROR</strong>: Your account has to be confirmed by an administrator before you can log in."
+msgstr "<strong>FOUT</strong>: Uw account moet bevestigd worden door een beheerder voordat u kunt inloggen."
+
+#: features/admin-approval/admin-approval.php:187
+msgid "Your account has to be confirmed by an administrator before you can use the \"Password Recovery\" feature."
+msgstr "Uw account moet bevestigd worden door een beheerder voordat u de functie 'Wachtwoord herstellen' kunt gebruiken."
+
+#: features/admin-approval/class-admin-approval.php:113
+msgid "delete this user?"
+msgstr "deze gebruiker verwijderen?"
+
+#: features/admin-approval/class-admin-approval.php:116
+msgid "unapprove this user?"
+msgstr "deze gebruiker afkeuren?"
+
+#: features/admin-approval/class-admin-approval.php:116
+#: features/admin-approval/class-admin-approval.php:223
+msgid "Unapprove"
+msgstr "Afkeuren"
+
+#: features/admin-approval/class-admin-approval.php:118
+msgid "approve this user?"
+msgstr "deze gebruiker goedkeuren?"
+
+#: features/admin-approval/class-admin-approval.php:118
+#: features/admin-approval/class-admin-approval.php:222
+msgid "Approve"
+msgstr "Goedkeuren"
+
+#: features/admin-approval/class-admin-approval.php:167
+#: modules/user-listing/userlisting.php:278
+#: modules/user-listing/userlisting.php:742
+#: modules/user-listing/userlisting.php:2157
+msgid "Firstname"
+msgstr "Voornaam"
+
+#: features/admin-approval/class-admin-approval.php:168
+#: modules/user-listing/userlisting.php:745
+#: modules/user-listing/userlisting.php:2158
+msgid "Lastname"
+msgstr "Achternaam"
+
+#: features/admin-approval/class-admin-approval.php:170
+#: modules/user-listing/userlisting.php:149
+#: modules/user-listing/userlisting.php:279
+#: modules/user-listing/userlisting.php:772
+#: modules/user-listing/userlisting.php:2162
+msgid "Role"
+msgstr "Rol"
+
+#: features/admin-approval/class-admin-approval.php:171
+#: features/email-confirmation/class-email-confirmation.php:169
+msgid "Registered"
+msgstr "Geregistreerd"
+
+#: features/admin-approval/class-admin-approval.php:172
+msgid "User-status"
+msgstr "Gebruikersstatus"
+
+#: features/admin-approval/class-admin-approval.php:252
+msgid "Do you want to bulk approve the selected users?"
+msgstr "Wilt u de geselecteerde gebruikers in één keer goedkeuren?"
+
+#: features/admin-approval/class-admin-approval.php:260
+msgid "Do you want to bulk unapprove the selected users?"
+msgstr "Wilt u de geselecteerde gebruikers in één keer afkeuren?"
+
+#: features/admin-approval/class-admin-approval.php:266
+msgid "Do you want to bulk delete the selected users?"
+msgstr "Wilt u de geselecteerde gebruikers in één keer verwijderen?"
+
+#: features/admin-approval/class-admin-approval.php:274
+#: features/email-confirmation/class-email-confirmation.php:278
+msgid "Sorry, but you don't have permission to do that!"
+msgstr "Sorry, u hebt niet het recht dit te doen!"
+
+#: features/admin-approval/class-admin-approval.php:339
+msgid "Approved"
+msgstr "Goedgekeurd"
+
+#: features/admin-approval/class-admin-approval.php:341
+msgid "Unapproved"
+msgstr "Afgekeurd"
+
+#: features/admin-approval/class-admin-approval.php:456
+#: features/email-confirmation/class-email-confirmation.php:454
+msgid "All Users"
+msgstr "Alle gebruikers"
+
+#: features/email-confirmation/class-email-confirmation.php:120
+msgid "delete this user from the _signups table?"
+msgstr "deze gebruiker verwijderen uit de tabel _signups?"
+
+#: features/email-confirmation/class-email-confirmation.php:121
+msgid "confirm this email yourself?"
+msgstr "dit e-mailadres zelf bevestigen?"
+
+#: features/email-confirmation/class-email-confirmation.php:121
+#: features/email-confirmation/class-email-confirmation.php:218
+msgid "Confirm Email"
+msgstr "E-mailadres bevestigen "
+
+#: features/email-confirmation/class-email-confirmation.php:122
+msgid "resend the activation link?"
+msgstr "de activeringslink opnieuw sturen?"
+
+#: features/email-confirmation/class-email-confirmation.php:122
+#: features/email-confirmation/class-email-confirmation.php:219
+msgid "Resend Activation Email"
+msgstr "Activeringsmail opnieuw sturen"
+
+#: features/email-confirmation/class-email-confirmation.php:249
+msgid "%s couldn't be deleted"
+msgstr "%s kon niet verwijderd worden"
+
+#: features/email-confirmation/class-email-confirmation.php:253
+msgid "All users have been successfully deleted"
+msgstr "Alle gebruikers zijn verwijderd"
+
+#: features/email-confirmation/class-email-confirmation.php:263
+msgid "The selected users have been activated"
+msgstr "De geselecteerde gebruikers zijn geactiveerd"
+
+#: features/email-confirmation/class-email-confirmation.php:274
+msgid "The selected users have had their activation emails resent"
+msgstr "De activerings e-mail is opnieuw gestuurd naar de geselecteerde gebruikers"
+
+#: features/email-confirmation/class-email-confirmation.php:451
+#: features/email-confirmation/email-confirmation.php:47
+msgid "Users with Unconfirmed Email Address"
+msgstr "Gebruikers met niet bevestigde e-mailadressen"
+
+#: features/email-confirmation/email-confirmation.php:107
+msgid "There was an error performing that action!"
+msgstr "Er is een fout opgetreden tijdens deze actie!"
+
+#: features/email-confirmation/email-confirmation.php:115
+msgid "The selected user couldn't be deleted"
+msgstr "De geselecteerde gebruiker kon niet verwijderd worden"
+
+#: features/email-confirmation/email-confirmation.php:126
+msgid "Email notification resent to user"
+msgstr "E-mail notificatie opnieuw gestuurd naar gebruiker"
+
+#: features/email-confirmation/email-confirmation.php:397
+msgid "[%1$s] Activate %2$s"
+msgstr "[%1$s] Activeren %2$s"
+
+#: features/email-confirmation/email-confirmation.php:441
+#: front-end/register.php:71
+msgid "Could not create user!"
+msgstr "Gebruiker kon niet aangemaakt worden!"
+
+#: features/email-confirmation/email-confirmation.php:444
+msgid "That username is already activated!"
+msgstr "Die gebruikersnaam is al geactiveerd!"
+
+#: features/email-confirmation/email-confirmation.php:467
+msgid "There was an error while trying to activate the user"
+msgstr "Er is een fout opgetreden tijdens het activeren van de gebruiker"
+
+#: features/email-confirmation/email-confirmation.php:515
+#: modules/email-customizer/admin-email-customizer.php:73
+msgid "A new subscriber has (been) registered!"
+msgstr "Er is een nieuw abonnee geregistreerd!"
+
+#: features/email-confirmation/email-confirmation.php:518
+msgid "New subscriber on %1$s.<br/><br/>Username:%2$s<br/>E-mail:%3$s<br/>"
+msgstr "Nieuwe abonnee op %1$s.<br/><br/>Gebruikersnaam:%2$s<br/>E-mailadres:%3$s<br/>"
+
+#: features/email-confirmation/email-confirmation.php:633
+msgid "The \"Admin Approval\" feature was activated at the time of registration, so please remember that you need to approve this user before he/she can log in!"
+msgstr "De functie \"Goedkeuring beheerder\" is tijdens registratie geactiveerd. Vergeet dus niet dat u de gebruiker moet goedkeuren voordat hij/zij kan inloggen!"
+
+#: features/email-confirmation/email-confirmation.php:569
+msgid "[%1$s] Your new account information"
+msgstr "[%1$s] Uw nieuwe accountinformatie"
+
+#: features/email-confirmation/email-confirmation.php:580
+msgid "Welcome to %1$s!<br/><br/><br/>Your username is:%2$s and password:%3$s"
+msgstr "Welkom op %1$s!<br/><br/><br/>Uw gebruikersnaam is:%2$s en het wachtwoord:%3$s"
+
+#: features/email-confirmation/email-confirmation.php:641
+#: front-end/register.php:125
+msgid "Before you can access your account, an administrator needs to approve it. You will be notified via email."
+msgstr "Voordat u toegang tot het account hebt, moet een beheerder dit goedkeuren. U wordt geïnformeerd via e-mail."
+
+#: features/login-widget/login-widget.php:10
+msgid "This login widget lets you add a login form in the sidebar."
+msgstr "Met deze inlogwidget kunt u een inlogformulier op de zijbalk plaatsen."
+
+#: features/login-widget/login-widget.php:15
+msgid "Profile Builder Login Widget"
+msgstr "Profile Builder inlogwidget"
+
+#: front-end/class-formbuilder.php:399 front-end/login.php:250
+msgid "Register"
+msgstr "Registreren"
+
+#: features/login-widget/login-widget.php:63
+msgid "Title:"
+msgstr "Titel:"
+
+#: features/login-widget/login-widget.php:68
+msgid "After login redirect URL (optional):"
+msgstr "Doorverwijs-URL na inloggen (optioneel):"
+
+#: features/login-widget/login-widget.php:73
+msgid "Register page URL (optional):"
+msgstr "Registratiepagina-URL (optioneel):"
+
+#: features/login-widget/login-widget.php:78
+msgid "Password Recovery page URL (optional):"
+msgstr "URL Wachtwoord-herstel pagina (optioneel):"
+
+#: features/upgrades/upgrades-functions.php:91
+#: features/upgrades/upgrades-functions.php:134
+msgid "The usernames cannot be changed."
+msgstr "De gebruikersnaam kan niet gewijzigd worden."
+
+#: front-end/class-formbuilder.php:125
+msgid "Only an administrator can add new users."
+msgstr "Alleen een beheerder kan nieuwe gebruikers toevoegen."
+
+#: front-end/class-formbuilder.php:135
+msgid "Users can register themselves or you can manually create users here."
+msgstr "Gebruikers kunnen zichzelf registreren of u kunt hier handmatig gebruikers aanmaken."
+
+#: front-end/class-formbuilder.php:138
+msgid "Users cannot currently register themselves, but you can manually create users here."
+msgstr "Gebruikers kunnen zich momenteel niet zelf registreren, maar u kunt hier handmatig gebruikers aanmaken."
+
+#: front-end/class-formbuilder.php:158
+msgid "You are currently logged in as %1s. You don't need another account. %2s"
+msgstr "U bent momenteel ingelogd als %1s. U hebt geen ander account nodig. %2s"
+
+#: front-end/class-formbuilder.php:158
+msgid "Log out of this account."
+msgstr "Uitloggen van dit account."
+
+#: front-end/class-formbuilder.php:158
+msgid "Logout"
+msgstr "Uitloggen"
+
+#: front-end/class-formbuilder.php:164
+msgid "You must be logged in to edit your profile."
+msgstr "U moet ingelogd zijn om uw profiel te bewerken."
+
+#: features/functions.php:994
+msgid "here"
+msgstr "hier"
+
+#: features/functions.php:995
+msgid "You will soon be redirected automatically. If you see this page for more than %1$d seconds, please click %2$s.%3$s"
+msgstr "U zult spoedig automatisch doorgestuurd worden. Als u deze pagina meer dan %1$d seconden ziet, klik dan op %2$s.%3$s"
+
+#: front-end/class-formbuilder.php:299 front-end/class-formbuilder.php:306
+msgid "The account %1s has been successfully created!"
+msgstr "Het account %1s is aangemaakt!"
+
+#: front-end/class-formbuilder.php:302 front-end/class-formbuilder.php:312
+msgid "Before you can access your account %1s, you need to confirm your email address. Please check your inbox and click the activation link."
+msgstr "Voordat u toegang krijgt tot uw account %1s, moet u uw e-mailadres bevestigen. Kijk in uw inbox en klik op de activeringslink."
+
+#: front-end/class-formbuilder.php:308
+msgid "Before you can access your account %1s, an administrator has to approve it. You will be notified via email."
+msgstr "Voordat u toegang krijgt tot uw account %1s, moet een beheerder dit goedkeuren. U wordt geïnformeerd via e-mail."
+
+#: front-end/class-formbuilder.php:331
+msgid "Your profile has been successfully updated!"
+msgstr "Uw profiel is bijgewerkt!"
+
+#: front-end/class-formbuilder.php:342
+msgid "There was an error in the submitted form"
+msgstr "Fout tijdens versturen van het formulier"
+
+#: front-end/class-formbuilder.php:399
+msgid "Add User"
+msgstr "Gebruiker toevoegen"
+
+#: admin/add-ons.php:170 front-end/class-formbuilder.php:402
+msgid "Update"
+msgstr "Bijwerken"
+
+#: front-end/class-formbuilder.php:465
+msgid "Send these credentials via email."
+msgstr "Stuur deze aanmeldingsgegevens via e-mail."
+
+#: front-end/extra-fields/extra-fields.php:94 front-end/login.php:137
+#: front-end/login.php:144 front-end/login.php:158 front-end/recover.php:17
+#: front-end/recover.php:237
+msgid "ERROR"
+msgstr "FOUT"
+
+#: front-end/login.php:137
+msgid "The password you entered is incorrect."
+msgstr "Het ingevoerde wachtwoord is onjuist."
+
+#: front-end/login.php:138 front-end/login.php:145
+msgid "Password Lost and Found."
+msgstr "Wachtwoord verloren en gevonden."
+
+#: front-end/login.php:138 front-end/login.php:145
+msgid "Lost your password"
+msgstr "Uw wachtwoord verloren"
+
+#: front-end/login.php:158
+msgid "Both fields are empty."
+msgstr "Beide velden zijn leeg."
+
+#: front-end/login.php:296
+msgid "You are currently logged in as %1$s. %2$s"
+msgstr "Je bent momenteel ingelogd als %1$s. %2$s"
+
+#: front-end/login.php:295 front-end/logout.php:25
+msgid "Log out of this account"
+msgstr "Uitloggen van dit account"
+
+#: front-end/login.php:295
+msgid "Log out"
+msgstr "Uitloggen"
+
+#: front-end/recover.php:17
+msgid "Your account has to be confirmed by an administrator before you can use the \"Password Reset\" feature."
+msgstr "Uw account moet door een beheerder worden bevestigd voordat u de functie 'Wachtwoord Opnieuw Instellen' kunt gebruiken."
+
+#: front-end/recover.php:94
+msgid "Reset Password"
+msgstr "Wachtwoord Opnieuw Instellen"
+
+#: front-end/recover.php:114
+msgid "Please enter your username or email address."
+msgstr "Voer uw gebruikersnaam of e-mailadres in."
+
+#: front-end/recover.php:115
+msgid "You will receive a link to create a new password via email."
+msgstr "U zult een link via e-mail ontvangen om een nieuw wachtwoord aan te maken."
+
+#: front-end/recover.php:120
+msgid "Username or E-mail"
+msgstr "Gebruikersnaam of e-mailadres"
+
+#: front-end/recover.php:130
+msgid "Get New Password"
+msgstr "Ontvang een nieuw wachtwoord"
+
+#: front-end/recover.php:177
+msgid "The username entered wasn't found in the database!"
+msgstr "De ingevoerde gebruikersnaam is niet in de database gevonden!"
+
+#: front-end/recover.php:177
+msgid "Please check that you entered the correct username."
+msgstr "Controleer of u de juiste gebruikersnaam ingevoerd hebt."
+
+#: front-end/recover.php:192
+msgid "Check your e-mail for the confirmation link."
+msgstr "Controleer uw e-mail voor de bevestingslink."
+
+#: front-end/recover.php:227
+msgid "Someone requested that the password be reset for the following account: <b>%1$s</b><br/>If this was a mistake, just ignore this email and nothing will happen.<br/>To reset your password, visit the following link:%2$s"
+msgstr "Iemand heeft gevraagd het wachtwoord opnieuw te stellen voor het volgende account: <b>%1$s</b><br/>Als dit niet uw bedoeling was, negeer dan deze e-mail en er zal niets veranderen.<br/>Klik op de volgende link om uw wachtwoord opnieuw in te stellen: %2$s"
+
+#: front-end/recover.php:230
+msgid "Password Reset from \"%1$s\""
+msgstr "Wachtwoord Opnieuw Instellen van \"%1$s\""
+
+#: front-end/recover.php:237
+msgid "There was an error while trying to send the activation link to %1$s!"
+msgstr "Er is een fout opgetreden tijdens het verzenden van de activeringslink naar %1$s!"
+
+#: front-end/recover.php:199
+msgid "The email address entered wasn't found in the database!"
+msgstr "Het ingevoerde e-mailadres is niet in de database gevonden!"
+
+#: front-end/recover.php:199
+msgid "Please check that you entered the correct email address."
+msgstr "Controleer of u het juiste e-mailadres ingevoerd hebt."
+
+#: front-end/recover.php:265
+msgid "Your password has been successfully changed!"
+msgstr "Uw wachtwoord is gewijzigd!"
+
+#: front-end/recover.php:284
+msgid "You have successfully reset your password to: %1$s"
+msgstr "U hebt uw wachtwoord opnieuw ingesteld naar: %1$s"
+
+#: front-end/recover.php:287 front-end/recover.php:298
+msgid "Password Successfully Reset for %1$s on \"%2$s\""
+msgstr "Wachtwoord opnieuw ingesteld voor %1$s op \"%2$s\""
+
+#: front-end/recover.php:295
+msgid "%1$s has requested a password change via the password reset feature.<br/>His/her new password is:%2$s"
+msgstr "%1$s heeft gevraagd het wachtwoord te wijzigen mbv de functie 'Wachtwoord Opnieuw Instellen'.<br/>Zijn/haar nieuwe wachtwoord is: %2$s"
+
+#: front-end/recover.php:312
+msgid "The entered passwords don't match!"
+msgstr "De ingevoerde wachtwoorden komen niet overeen!"
+
+#: front-end/recover.php:367
+msgid "ERROR:"
+msgstr "FOUT:"
+
+#: front-end/recover.php:367
+msgid "Invalid key!"
+msgstr "Ongeldige sleutel!"
+
+#: front-end/register.php:56
+msgid "Invalid activation key!"
+msgstr "Ongeldige activeringssleutel!"
+
+#: front-end/register.php:60
+msgid "This username is now active!"
+msgstr "Deze gebruikersnaam is nu actief!"
+
+#: front-end/register.php:74
+msgid "This username is already activated!"
+msgstr "Deze gebruikersnaam is reeds geactiveerd!"
+
+#: front-end/register.php:124
+msgid "Your email was successfully confirmed."
+msgstr "Uw e-mailadres is bevestigd."
+
+#: front-end/register.php:153
+msgid "There was an error while trying to activate the user."
+msgstr "Er is een fout opgetreden tijdens activering van de gebruiker."
+
+#: front-end/default-fields/email/email.php:47
+msgid "The email you entered is not a valid email address."
+msgstr "Het ingevoerde e-mailadres is niet geldig."
+
+#: front-end/default-fields/email/email.php:60
+#: front-end/default-fields/email/email.php:67
+msgid "This email is already reserved to be used soon."
+msgstr "Dit e-mailadres is gereserveerd voor toekomstig gebruik."
+
+#: front-end/default-fields/email/email.php:60
+#: front-end/default-fields/email/email.php:67
+#: front-end/default-fields/email/email.php:77
+#: front-end/default-fields/email/email.php:95
+#: front-end/default-fields/username/username.php:49
+#: front-end/default-fields/username/username.php:65
+msgid "Please try a different one!"
+msgstr "Probeer een ander!"
+
+#: front-end/default-fields/email/email.php:77
+#: front-end/default-fields/email/email.php:95
+msgid "This email is already in use."
+msgstr "Dit e-mailadres is reeds in gebruik."
+
+#: front-end/default-fields/password-repeat/password-repeat.php:37
+#: front-end/default-fields/password-repeat/password-repeat.php:41
+msgid "The passwords do not match"
+msgstr "De wachtwoorden komen niet overeen"
+
+#: front-end/default-fields/username/username.php:49
+msgid "This username already exists."
+msgstr "Deze gebruikersnaam bestaat reeds."
+
+#: front-end/default-fields/username/username.php:65
+msgid "This username is already reserved to be used soon."
+msgstr "Deze gebruikersnaam is gereserveerd voor toekomstig gebruik. "
+
+#: modules/user-listing/userlisting.php:276
+msgid "Avatar"
+msgstr "Avatar"
+
+#: front-end/extra-fields/avatar/avatar.php:72
+#: front-end/extra-fields/checkbox/checkbox.php:45
+#: front-end/extra-fields/colorpicker/colorpicker.php:45
+#: front-end/extra-fields/datepicker/datepicker.php:40
+#: front-end/extra-fields/input-hidden/input-hidden.php:34
+#: front-end/extra-fields/input/input.php:30
+#: front-end/extra-fields/map/map.php:51
+#: front-end/extra-fields/number/number.php:30
+#: front-end/extra-fields/phone/phone.php:39
+#: front-end/extra-fields/radio/radio.php:44
+#: front-end/extra-fields/select-cpt/select-cpt.php:52
+#: front-end/extra-fields/select-multiple/select-multiple.php:46
+#: front-end/extra-fields/select-timezone/select-timezone.php:49
+#: front-end/extra-fields/select/select.php:51
+#: front-end/extra-fields/textarea/textarea.php:30
+#: front-end/extra-fields/upload/upload.php:70
+#: front-end/extra-fields/wysiwyg/wysiwyg.php:33
+msgid "required"
+msgstr "verplicht"
+
+#: front-end/extra-fields/recaptcha/recaptcha.php:48
+msgid "To use reCAPTCHA you must get an API key from"
+msgstr "Om reCAPTCHA te gebruiken moet u een API-sleutel krijgen van"
+
+#: front-end/extra-fields/recaptcha/recaptcha.php:131
+msgid "For security reasons, you must pass the remote ip to reCAPTCHA!"
+msgstr "Om veiligheidsredenen moet u het externe IP adres doorgeven aan reCAPTCHA!"
+
+#: front-end/extra-fields/recaptcha/recaptcha.php:192
+msgid "To use reCAPTCHA you must get an API public key from:"
+msgstr "Om reCAPTCHA te gebruiken moet u een openbare API-sleutel krijgen van:"
+
+#: modules/modules.php:11 modules/modules.php:58
+msgid "Modules"
+msgstr "Modules"
+
+#: modules/modules.php:59
+msgid "Here you can activate / deactivate available modules for Profile Builder."
+msgstr "Hier kunt u alle modules van Profile Builder activeren/deactiveren."
+
+#: modules/modules.php:69
+msgid "Name/Description"
+msgstr "Naam/beschrijving"
+
+#: modules/modules.php:70
+msgid "Status"
+msgstr "Status"
+
+#: modules/modules.php:77 modules/modules.php:84 modules/modules.php:91
+#: modules/modules.php:98 modules/modules.php:105 modules/modules.php:112
+#: modules/modules.php:119
+msgid "Active"
+msgstr "Actief"
+
+#: modules/modules.php:78 modules/modules.php:85 modules/modules.php:92
+#: modules/modules.php:99 modules/modules.php:106 modules/modules.php:113
+#: modules/modules.php:120
+msgid "Inactive"
+msgstr "Niet actief"
+
+#: modules/email-customizer/admin-email-customizer.php:11
+#: modules/email-customizer/admin-email-customizer.php:12
+#: modules/modules.php:96
+msgid "Admin Email Customizer"
+msgstr "Beheerders e-mail aanpassen"
+
+#: modules/email-customizer/user-email-customizer.php:11
+#: modules/email-customizer/user-email-customizer.php:12
+#: modules/modules.php:103
+msgid "User Email Customizer"
+msgstr "Gebruikers e-mail aanpassen"
+
+#: assets/lib/wck-api/wordpress-creation-kit.php:334
+#: modules/class-mustache-templates/class-mustache-templates.php:253
+msgid "Save"
+msgstr "Opslaan"
+
+#: modules/multiple-forms/edit-profile-forms.php:206
+#: modules/multiple-forms/register-forms.php:230
+msgid "Redirect"
+msgstr "Doorverwijzen"
+
+#: modules/multiple-forms/edit-profile-forms.php:208
+#: modules/multiple-forms/register-forms.php:232
+msgid "URL"
+msgstr "URL"
+
+#: modules/email-customizer/admin-email-customizer.php:38
+msgid "These settings are also replicated in the \"User Email Customizer\" settings-page upon save."
+msgstr "Deze instellingen worden tijdens het opslaan ook overgenomen op de instellingenpagina \"E-mailadres gebruikers aanpassen\"."
+
+#: modules/email-customizer/admin-email-customizer.php:41
+#: modules/email-customizer/user-email-customizer.php:41
+msgid "From (name)"
+msgstr "Van (naam)"
+
+#: modules/email-customizer/admin-email-customizer.php:49
+#: modules/email-customizer/user-email-customizer.php:49
+msgid "From (reply-to email)"
+msgstr "Van (antwoord-aan-mailadres)"
+
+#: modules/email-customizer/admin-email-customizer.php:57
+#: modules/email-customizer/user-email-customizer.php:57
+msgid "Common Settings"
+msgstr "Algemene Instellingen"
+
+#: modules/email-customizer/admin-email-customizer.php:60
+msgid ""
+"\n"
+"<p>New subscriber on {{site_name}}.</p>\n"
+"<p>Username:{{username}}</p>\n"
+"<p>E-mail:{{user_email}}</p>\n"
+msgstr ""
+"\n"
+"<p>Nieuwe abonnee op {{site_name}}.</p>\n"
+"<p>Gebruikersnaam:{{username}}</p>\n"
+"<p>E-mailadres:{{user_email}}</p>\n"
+
+#: modules/email-customizer/admin-email-customizer.php:69
+#: modules/email-customizer/admin-email-customizer.php:99
+#: modules/email-customizer/admin-email-customizer.php:126
+#: modules/email-customizer/user-email-customizer.php:71
+#: modules/email-customizer/user-email-customizer.php:99
+#: modules/email-customizer/user-email-customizer.php:128
+#: modules/email-customizer/user-email-customizer.php:155
+#: modules/email-customizer/user-email-customizer.php:183
+#: modules/email-customizer/user-email-customizer.php:214
+#: modules/email-customizer/user-email-customizer.php:241
+#: modules/email-customizer/user-email-customizer.php:274
+msgid "Email Subject"
+msgstr "Onderwerp e-mail"
+
+#: modules/email-customizer/admin-email-customizer.php:84
+msgid "Default Registration & Registration with Email Confirmation"
+msgstr "Standaardregistratie & registratie met e-mailbevestiging"
+
+#: modules/email-customizer/admin-email-customizer.php:87
+msgid ""
+"\n"
+"<p>New subscriber on {{site_name}}.</p>\n"
+"<p>Username:{{username}}</p>\n"
+"<p>E-mail:{{user_email}}</p>\n"
+"<p>The Admin Approval feature was activated at the time of registration,\n"
+"so please remember that you need to approve this user before he/she can log in!</p>\n"
+msgstr ""
+"\n"
+"<p>Nieuwe abonnee op {{site_name}}.</p>\n"
+"<p>Gebruikersnaam:{{username}}</p>\n"
+"<p>E-mailadres:{{user_email}}</p>\n"
+"<p>De functie 'goedkeuring beheerder' is geactiveerd tijdens registratie,\n"
+"vergeet dus niet dat u deze gebruiker moet goedkeuren voordat hij/zij kan inloggen!</p>\n"
+
+#: modules/email-customizer/admin-email-customizer.php:114
+#: modules/email-customizer/user-email-customizer.php:143
+msgid "Registration with Admin Approval"
+msgstr "Registratie met Goedkeuring Beheerder"
+
+#: modules/email-customizer/email-customizer.php:7
+msgid "Available Tags"
+msgstr "Beschikbare tags"
+
+#: features/email-confirmation/class-email-confirmation.php:91
+#: features/email-confirmation/class-email-confirmation.php:170
+msgid "User Meta"
+msgstr "Gebruikers-meta"
+
+#: modules/email-customizer/email-customizer.php:21
+msgid "Site Url"
+msgstr "Website-URL"
+
+#: modules/email-customizer/email-customizer.php:22
+msgid "Site Name"
+msgstr "Websitenaam"
+
+#: modules/email-customizer/email-customizer.php:25
+#: modules/user-listing/userlisting.php:158
+msgid "User Id"
+msgstr "Gebruikers-ID"
+
+#: modules/email-customizer/email-customizer.php:33
+msgid "Reply To"
+msgstr "Antwoorden aan"
+
+#: modules/email-customizer/email-customizer.php:40
+msgid "Activation Key"
+msgstr "Activeringssleutel"
+
+#: modules/email-customizer/email-customizer.php:41
+msgid "Activation Url"
+msgstr "Activerings-URL"
+
+#: modules/email-customizer/email-customizer.php:42
+msgid "Activation Link"
+msgstr "Activerings-link"
+
+#: modules/email-customizer/user-email-customizer.php:64
+msgid ""
+"\n"
+"<h3>Welcome to {{site_name}}!</h3>\n"
+"<p>Your username is:{{username}} and password:{{password}}</p>\n"
+msgstr ""
+"\n"
+"<h3>Welkom op {{site_name}}!</h3>\n"
+"<p>Uw gebruikersnaam is:{{username}} en wachtwoord:{{password}}</p>\n"
+
+#: modules/email-customizer/user-email-customizer.php:85
+msgid "Default Registration"
+msgstr "Standaardregistratie"
+
+#: modules/email-customizer/user-email-customizer.php:91
+msgid ""
+"\n"
+"<p>To activate your user, please click the following link:<br/>\n"
+"{{{activation_link}}}</p>\n"
+"<p>After you activate, you will receive another email with your credentials.</p>\n"
+msgstr ""
+"\n"
+"<p>Klik op de volgende link om de gebruiker te activeren:<br/>\n"
+"\n"
+"{{{activation_link}}}</p>\n"
+"\n"
+"<p>Na activering zult u nog een e-mail ontvangen met uw aanmeldgegevens.</p>\n"
+
+#: modules/email-customizer/user-email-customizer.php:103
+msgid "[{{site_name}}] Activate {{username}}"
+msgstr "[{{site_name}}] Activeren {{username}}"
+
+#: modules/email-customizer/user-email-customizer.php:114
+msgid "Registration with Email Confirmation"
+msgstr "Registratie met e-mailbevestiging"
+
+#: modules/email-customizer/user-email-customizer.php:120
+msgid ""
+"\n"
+"<h3>Welcome to {{site_name}}!</h3>\n"
+"<p>Your username is:{{username}} and password:{{password}}</p>\n"
+"<p>Before you can access your account, an administrator needs to approve it. You will be notified via email.</p>\n"
+msgstr ""
+"\n"
+"<h3>Welkom op {{site_name}}!</h3>\n"
+"<p>Uw gebruikersnaam is:{{username}} en wachtwoord:{{password}}</p>\n"
+"<p>Voordat u toegang krijgt tot uw account moet een beheerder dit goedkeuren. U wordt via e-mail geïnformeerd.</p>\n"
+
+#: modules/email-customizer/user-email-customizer.php:132
+msgid "A new account has been created for you on {{site_name}}"
+msgstr "Er is een nieuwe account is voor u aangemaakt op {{site_name}}"
+
+#: modules/email-customizer/user-email-customizer.php:148
+msgid ""
+"\n"
+"<h3>Good News!</h3>\n"
+"<p>An administrator has just approved your account: {{username}} on {{site_name}}.</p>\n"
+msgstr ""
+"\n"
+"<h3>Goed nieuws!</h3>\n"
+"<p>Een beheerder heeft zojuist uw account goedgekeurd: {{username}} op {{site_name}}.</p>\n"
+
+#: modules/email-customizer/user-email-customizer.php:159
+msgid "Your account on {{site_name}} has been approved!"
+msgstr "Uw account op {{site_name}} is goedgekeurd!"
+
+#: modules/email-customizer/user-email-customizer.php:170
+msgid "User Approval Notification"
+msgstr "Kennisgeving goedkeuring gebruiker"
+
+#: modules/email-customizer/user-email-customizer.php:175
+msgid ""
+"\n"
+"<h3>Hello,</h3>\n"
+"<p>Unfortunatelly an administrator has just unapproved your account: {{username}} on {{site_name}}.</p>\n"
+msgstr ""
+"\n"
+"<h3>Hallo,</h3>\n"
+"<p>Helaas heeft een beheerder uw account zojuist afgekeurd: {{username}} op {{site_name}}.</p>\n"
+
+#: modules/email-customizer/user-email-customizer.php:187
+msgid "Your account on {{site_name}} has been unapproved!"
+msgstr "Uw account op {{site_name}} is afgekeurd!"
+
+#: modules/email-customizer/user-email-customizer.php:198
+msgid "Unapproved User Notification"
+msgstr "Kennisgeving afgekeurde gebruiker"
+
+#: modules/multiple-forms/edit-profile-forms.php:11
+#: modules/multiple-forms/edit-profile-forms.php:12
+msgid "Edit-profile Form"
+msgstr "Profiel bewerkformulier"
+
+#: modules/multiple-forms/edit-profile-forms.php:13
+#: modules/multiple-forms/register-forms.php:13
+#: modules/user-listing/userlisting.php:13
+msgid "Add New"
+msgstr "Nieuw toevoegen"
+
+#: modules/multiple-forms/edit-profile-forms.php:14
+msgid "Add new Edit-profile Form"
+msgstr "Voeg nieuw Profiel bewerkformulier toe"
+
+#: modules/multiple-forms/edit-profile-forms.php:15
+msgid "Edit the Edit-profile Forms"
+msgstr "Bewerk de Profiel bewerkformulieren"
+
+#: modules/multiple-forms/edit-profile-forms.php:16
+msgid "New Edit-profile Form"
+msgstr "Nieuw Profiel bewerkformulier"
+
+#: modules/multiple-forms/edit-profile-forms.php:17
+#: modules/multiple-forms/edit-profile-forms.php:23
+msgid "Edit-profile Forms"
+msgstr "Profiel bewerkformulieren"
+
+#: modules/multiple-forms/edit-profile-forms.php:18
+msgid "View the Edit-profile Form"
+msgstr "Bekijk het Profiel bewerkformulier"
+
+#: modules/multiple-forms/edit-profile-forms.php:19
+msgid "Search the Edit-profile Forms"
+msgstr "Zoek de Profiel bewerkformulieren"
+
+#: modules/multiple-forms/edit-profile-forms.php:20
+msgid "No Edit-profile Form found"
+msgstr "Geen Profiel bewerkformulier gevonden"
+
+#: modules/multiple-forms/edit-profile-forms.php:21
+msgid "No Edit-profile Forms found in trash"
+msgstr "Geen Profiel bewerkformulieren in prullenbak gevonden"
+
+#: modules/multiple-forms/edit-profile-forms.php:135
+#: modules/multiple-forms/register-forms.php:138
+#: modules/user-listing/userlisting.php:2048
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: modules/multiple-forms/edit-profile-forms.php:155
+#: modules/multiple-forms/register-forms.php:159
+#: modules/user-listing/userlisting.php:2069
+msgid "(no title)"
+msgstr "(geen titel)"
+
+#: modules/multiple-forms/edit-profile-forms.php:175
+#: modules/multiple-forms/register-forms.php:178
+#: modules/user-listing/userlisting.php:2089
+msgid "The shortcode will be available after you publish this form."
+msgstr "De shortcode is beschikbaar nadat u dit formulier gepubliceerd hebt."
+
+#: modules/multiple-forms/edit-profile-forms.php:177
+#: modules/multiple-forms/register-forms.php:180
+#: modules/user-listing/userlisting.php:2091
+msgid "Use this shortcode on the page you want the form to be displayed:"
+msgstr "Gebruik deze shortcode op de pagina waarop u het formulier wilt weergeven:"
+
+#: modules/multiple-forms/edit-profile-forms.php:181
+#: modules/multiple-forms/register-forms.php:184
+#: modules/user-listing/userlisting.php:2095
+msgid "<span style=\"color:red;\">Note:</span> changing the form title also changes the shortcode!"
+msgstr "<span style=\"color:red;\">Attentie:</span> als u de formuliertitel wijzigt zal ook de shortcode gewijzigd worden!"
+
+#: modules/multiple-forms/edit-profile-forms.php:187
+#: modules/multiple-forms/register-forms.php:190
+#: modules/user-listing/userlisting.php:2128
+msgid "Form Shortcode"
+msgstr "Formulier-shortcode"
+
+#: modules/multiple-forms/edit-profile-forms.php:206
+#: modules/multiple-forms/register-forms.php:230
+msgid "Whether to redirect the user to a specific page or not"
+msgstr "Of u de gebruiker wilt doorverwijzen naar een bepaalde pagina of niet"
+
+#: modules/multiple-forms/edit-profile-forms.php:207
+#: modules/multiple-forms/register-forms.php:231
+msgid "Display Messages"
+msgstr "Berichten weergeven"
+
+#: modules/multiple-forms/edit-profile-forms.php:207
+#: modules/multiple-forms/register-forms.php:231
+msgid "Allowed time to display any success messages (in seconds)"
+msgstr "Toegestane tijd om succesberichten weer te geven (in seconden)"
+
+#: modules/multiple-forms/edit-profile-forms.php:208
+msgid "Specify the URL of the page users will be redirected once they updated their profile using this form<br/>Use the following format: http://www.mysite.com"
+msgstr "Specificeer de URL van de pagina waar gebruikers naar doorverwezen worden als ze dit formulier gebruikt hebben om hun profiel te updaten<br/>Gebruik de volgende opmaak: http://www.mysite.com"
+
+#: modules/multiple-forms/edit-profile-forms.php:215
+msgid "After Profile Update..."
+msgstr "Na profiel update..."
+
+#: modules/multiple-forms/edit-profile-forms.php:241
+#: modules/multiple-forms/register-forms.php:262
+msgid "Add New Field to the List"
+msgstr "Voeg een nieuw veld aan de lijst toe"
+
+#: modules/multiple-forms/edit-profile-forms.php:245
+#: modules/multiple-forms/register-forms.php:266
+msgid "Choose one of the supported fields you manage <a href=\""
+msgstr "Kies een van de ondersteunde velden die u beheert <a href=\""
+
+#: modules/multiple-forms/multiple-forms.php:406
+msgid "<pre>Title (Type)</pre>"
+msgstr "<pre>Titel (Type)</pre>"
+
+#: modules/multiple-forms/multiple-forms.php:222
+msgid "You need to specify the title of the form before creating it"
+msgstr "U moet de titel van het formulier specificeren voordat u het aanmaakt"
+
+#: modules/multiple-forms/register-forms.php:11
+#: modules/multiple-forms/register-forms.php:12
+msgid "Registration Form"
+msgstr "Registratieformulier"
+
+#: modules/multiple-forms/register-forms.php:14
+msgid "Add new Registration Form"
+msgstr "Nieuw registratieformulier toevoegen"
+
+#: modules/multiple-forms/register-forms.php:15
+msgid "Edit the Registration Forms"
+msgstr "De registratieformulieren bewerken"
+
+#: modules/multiple-forms/register-forms.php:16
+msgid "New Registration Form"
+msgstr "Nieuw registratieformulier"
+
+#: modules/multiple-forms/register-forms.php:17
+#: modules/multiple-forms/register-forms.php:23
+msgid "Registration Forms"
+msgstr "Registratieformulieren"
+
+#: modules/multiple-forms/register-forms.php:18
+msgid "View the Registration Form"
+msgstr "Het registratieformulier bekijken"
+
+#: modules/multiple-forms/register-forms.php:19
+msgid "Search the Registration Forms"
+msgstr "De registratieformulieren zoeken"
+
+#: modules/multiple-forms/register-forms.php:20
+msgid "No Registration Form found"
+msgstr "Geen registratieformulier gevonden"
+
+#: modules/multiple-forms/register-forms.php:21
+msgid "No Registration Forms found in trash"
+msgstr "Geen registratieformulieren in prullenbak gevonden"
+
+#: modules/multiple-forms/register-forms.php:219
+msgid "Default Role"
+msgstr "Standaardrol"
+
+#: modules/multiple-forms/register-forms.php:228
+msgid "Set Role"
+msgstr "Rol Instellen"
+
+#: modules/multiple-forms/register-forms.php:228
+msgid "Choose what role the user will have after (s)he registered<br/>If not specified, defaults to the role set in the WordPress settings"
+msgstr "Kies welke rol de gebruiker heeft na registratie<br/>Indien niet gespecificeerd, wordt de rol standaard die van de WordPress-instellingen"
+
+#: modules/multiple-forms/register-forms.php:229
+msgid "Automatically Log In"
+msgstr "Automatisch Inloggen"
+
+#: modules/multiple-forms/register-forms.php:229
+msgid "Whether to automatically log in the newly registered user or not<br/>Only works on single-sites without \"Admin Approval\" and \"Email Confirmation\" features activated<br/>WARNING: Caching the registration form will make automatic login not work"
+msgstr "Of de nieuwe gebruiker automatisch ingelogd wordt of niet<br/>Werkt alleen op losse websites zonder dat de functies 'Goedkeuring beheerder' en 'E-mailbevestiging' geactiveerd zijn<br/>WAARSCHUWING: Als het registratieformulier gecachet wordt, zal automatisch inloggen niet werken"
+
+#: modules/multiple-forms/register-forms.php:232
+msgid "Specify the URL of the page users will be redirected once registered using this form<br/>Use the following format: http://www.mysite.com"
+msgstr "Specificeer de URL van de pagina waar gebruikers naar doorverwezen worden als ze dit formulier gebruikt hebben om zich te registreren<br/>Gebruik de volgende opmaak: http://www.mysite.com"
+
+#: modules/multiple-forms/register-forms.php:238
+msgid "After Registration..."
+msgstr "Na registratie..."
+
+#: modules/user-listing/userlisting.php:1021
+#: modules/user-listing/userlisting.php:1468
+#: modules/user-listing/userlisting.php:1886
+#: modules/user-listing/userlisting.php:2355
+msgid "Search Users by All Fields"
+msgstr "Zoek gebruikers mbv alle velden"
+
+#: modules/user-listing/userlisting.php:14
+msgid "Add new User Listing"
+msgstr "Nieuwe gebruikerslijst toevoegen"
+
+#: modules/user-listing/userlisting.php:15
+msgid "Edit the User Listing"
+msgstr "Bewerk de gebruikerslijst"
+
+#: modules/user-listing/userlisting.php:16
+msgid "New User Listing"
+msgstr "Nieuwe gebruikerslijst"
+
+#: modules/user-listing/userlisting.php:18
+msgid "View the User Listing"
+msgstr "Bekijk de gebruikerslijst"
+
+#: modules/user-listing/userlisting.php:19
+msgid "Search the User Listing"
+msgstr "Zoek in de gebruikerslijst"
+
+#: modules/user-listing/userlisting.php:20
+msgid "No User Listing found"
+msgstr "Geen gebruikerslijst gevonden"
+
+#: modules/user-listing/userlisting.php:21
+msgid "No User Listing found in trash"
+msgstr "Geen gebruikerslijst in prullenbak gevonden"
+
+#: modules/user-listing/userlisting.php:105
+msgid "Display name as"
+msgstr "Toon naam als"
+
+#: modules/user-listing/userlisting.php:150
+#: modules/user-listing/userlisting.php:2156
+msgid "Registration Date"
+msgstr "Registratiedatum"
+
+#: modules/user-listing/userlisting.php:151
+#: modules/user-listing/userlisting.php:2161
+msgid "Number of Posts"
+msgstr "Aantal berichten"
+
+#: modules/user-listing/userlisting.php:155
+msgid "More Info"
+msgstr "Meer Info"
+
+#: modules/user-listing/userlisting.php:156
+msgid "More Info Url"
+msgstr "Meer Info URL"
+
+#: modules/user-listing/userlisting.php:157
+msgid "Avatar or Gravatar"
+msgstr "Avatar of gravatar"
+
+#: modules/user-listing/userlisting.php:196
+#: modules/user-listing/userlisting.php:227
+msgid "Extra Functions"
+msgstr "Extra functies"
+
+#: modules/user-listing/userlisting.php:199
+msgid "Pagination"
+msgstr "Paginering"
+
+#: modules/user-listing/userlisting.php:200
+msgid "Search all Fields"
+msgstr "Zoek alle velden"
+
+#: modules/user-listing/userlisting.php:229
+msgid "Go Back Link"
+msgstr "Ga Terug Link"
+
+#: modules/user-listing/userlisting.php:247
+msgid "All-userlisting Template"
+msgstr "Sjabloon voor gebruikerslijst"
+
+#: modules/user-listing/userlisting.php:250
+msgid "Single-userlisting Template"
+msgstr "Sjabloon voor gebruikerspagina"
+
+#: modules/user-listing/userlisting.php:733
+msgid "First/Lastname"
+msgstr "Voor-/achternaam"
+
+#: modules/user-listing/userlisting.php:281
+#: modules/user-listing/userlisting.php:739
+msgid "Sign-up Date"
+msgstr "Aanmeld-datum"
+
+#: modules/user-listing/userlisting.php:748
+#: modules/user-listing/userlisting.php:2159
+msgid "Display Name"
+msgstr "Schermnaam"
+
+#: modules/user-listing/userlisting.php:280
+#: modules/user-listing/userlisting.php:757
+msgid "Posts"
+msgstr "Berichten"
+
+#: modules/user-listing/userlisting.php:760
+#: modules/user-listing/userlisting.php:2166
+msgid "Aim"
+msgstr "Aim"
+
+#: modules/user-listing/userlisting.php:763
+#: modules/user-listing/userlisting.php:2167
+msgid "Yim"
+msgstr "Yim"
+
+#: modules/user-listing/userlisting.php:766
+#: modules/user-listing/userlisting.php:2168
+msgid "Jabber"
+msgstr "Jabber"
+
+#: modules/user-listing/userlisting.php:1273
+msgid "Click here to see more information about this user"
+msgstr "Klik hier om meer informatie over deze gebruiker te bekijken"
+
+#: modules/user-listing/userlisting.php:1273
+msgid "More..."
+msgstr "Meer..."
+
+#: modules/user-listing/userlisting.php:1276
+msgid "Click here to see more information about this user."
+msgstr "Klik hier om meer informatie over deze gebruiker te bekijken."
+
+#: modules/user-listing/userlisting.php:1422
+#: modules/user-listing/userlisting.php:1425
+msgid "Click here to go back"
+msgstr "Klik hier om terug te gaan"
+
+#: modules/user-listing/userlisting.php:1422
+msgid "Back"
+msgstr "Terug"
+
+#: modules/user-listing/userlisting.php:1455
+msgid "&laquo;&laquo; First"
+msgstr "&laquo;&laquo; Eerste"
+
+#: modules/user-listing/userlisting.php:1456
+msgid "&laquo; Prev"
+msgstr "&laquo; Vorige"
+
+#: modules/user-listing/userlisting.php:1457
+msgid "Next &raquo; "
+msgstr "Volgende &raquo;"
+
+#: modules/user-listing/userlisting.php:1458
+msgid "Last &raquo;&raquo;"
+msgstr "Laatste &raquo;&raquo;"
+
+#: modules/user-listing/userlisting.php:1487
+msgid "You don't have any pagination settings on this userlisting!"
+msgstr "Er zijn geen instellingen voor paginering in deze gebruikerslijst!"
+
+#: modules/user-listing/userlisting.php:1903
+msgid "Search"
+msgstr "Zoek"
+
+#: modules/user-listing/userlisting.php:1904
+msgid "Clear Results"
+msgstr "Resultaten wissen"
+
+#: modules/user-listing/userlisting.php:2098
+#: modules/user-listing/userlisting.php:2102
+msgid "Extra shortcode parameters"
+msgstr "Extra shortcode-parameters"
+
+#: modules/user-listing/userlisting.php:2105
+msgid "displays users having a certain meta-value within a certain (extra) meta-field"
+msgstr "toont gebruikers met een bepaalde meta-waarde in een bepaald (extra) meta-veld"
+
+#: modules/user-listing/userlisting.php:2106
+msgid "Example:"
+msgstr "Voorbeeld:"
+
+#: modules/user-listing/userlisting.php:2108
+msgid "Remember though, that the field-value combination must exist in the database."
+msgstr "Onthoud echter dat de veldwaarde-combinatie in de database aanwezig moet zijn."
+
+#: modules/user-listing/userlisting.php:2183
+msgid "Random (very slow on large databases > 10K user)"
+msgstr "Willekeurig (vertraagt grote databases > 10.000 gebruikers)"
+
+#: modules/user-listing/userlisting.php:2195
+msgid "Roles to Display"
+msgstr "Te tonen rollen"
+
+#: modules/user-listing/userlisting.php:2195
+msgid "Restrict the userlisting to these selected roles only<br/>If not specified, defaults to all existing roles"
+msgstr "Beperk de gebruikerslijst tot deze geselecteerde rollen<br/>Indien niet gespecificeerd, worden standaard alle bestaande rollen weergegeven"
+
+#: modules/user-listing/userlisting.php:2196
+msgid "Number of Users/Page"
+msgstr "Aantal gebruikers per pagina"
+
+#: modules/user-listing/userlisting.php:2197
+msgid "Default Sorting Criteria"
+msgstr "Standaard sorteercriteria"
+
+#: modules/user-listing/userlisting.php:2197
+msgid "Set the default sorting criteria<br/>This can temporarily be changed for each new session"
+msgstr "Stel de standaard sorteercriteria in<br/>Dit kan tijdelijk gewijzigd worden voor iedere nieuwe sessie"
+
+#: modules/user-listing/userlisting.php:2198
+msgid "Default Sorting Order"
+msgstr "Standaard sorteervolgorde"
+
+#: modules/user-listing/userlisting.php:2198
+msgid "Set the default sorting order<br/>This can temporarily be changed for each new session"
+msgstr "Stel de standaard sorteervolgorde in<br/>Dit kan tijdelijk gewijzigd worden voor iedere nieuwe sessie"
+
+#: modules/user-listing/userlisting.php:2199
+msgid "Avatar Size (All-userlisting)"
+msgstr "Avatargrootte (gebruikerslijst)"
+
+#: modules/user-listing/userlisting.php:2199
+msgid "Set the avatar size on the all-userlisting only"
+msgstr "Stel de avatargrootte in voor de gebruikerslijst"
+
+#: modules/user-listing/userlisting.php:2200
+msgid "Avatar Size (Single-userlisting)"
+msgstr "Avatargrootte (gebruikerspagina)"
+
+#: modules/user-listing/userlisting.php:2200
+msgid "Set the avatar size on the single-userlisting only"
+msgstr "Stel de avatargrootte in voor de gebruikerspagina"
+
+#: modules/user-listing/userlisting.php:2201
+msgid "Visible only to logged in users?"
+msgstr "Alleen zichtbaar voor ingelogde gebruikers?"
+
+#: modules/user-listing/userlisting.php:2201
+msgid "The userlisting will only be visible only to the logged in users"
+msgstr "De gebruikerslijst is alleen zichtbaar voor ingelogde gebruikers"
+
+#: modules/user-listing/userlisting.php:2202
+msgid "Visible to following Roles"
+msgstr "Zichtbaar voor de volgende rollen"
+
+#: modules/user-listing/userlisting.php:2202
+msgid "The userlisting will only be visible to the following roles"
+msgstr "De gebruikerslijst is alleen zichtbaar voor de volgende rollen"
+
+#: modules/user-listing/userlisting.php:2208
+msgid "Userlisting Settings"
+msgstr "Instellingen gebruikerslijst"
+
+#: modules/user-listing/userlisting.php:2331
+msgid "You need to activate the Userlisting feature from within the \"Modules\" tab!"
+msgstr "U moet de gebruikerslijst functie activeren vanuit het tabblad 'Modules'!"
+
+#: modules/user-listing/userlisting.php:2331
+msgid "You can find it in the Profile Builder menu."
+msgstr "U kunt dit in het menu van Profile Builder vinden."
+
+#: modules/user-listing/userlisting.php:2494
+msgid "No results found!"
+msgstr "Geen resultaten gevonden!"
